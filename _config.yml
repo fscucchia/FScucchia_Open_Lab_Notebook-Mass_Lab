@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: F. Scucchia's Open Lab Notebook_Mass Lab
+name: F. Scucchia's Lab Notebook_Mass Lab
 
 # Short bio or description (displayed in the header)
 description: PhD research
@@ -47,7 +47,7 @@ url: "http://fscucchia.github.io"
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/FScucchia_Open_Lab_Notebook-Mass_Lab"
+baseurl: "/FScucchia_Lab_Notebook-Mass_Lab"
 
 #
 # !! You don't need to change any of the configuration flags below !!

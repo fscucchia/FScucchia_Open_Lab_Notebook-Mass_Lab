@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Porites astrodies RNA Extraction with Invitrogen Mini Kit
+title: _Porites astrodies_ RNA Extraction with Invitrogen Mini Kit
 category: [ Extraction ]
 tags: [ RNA, Porites, RNA Extraction ]
 ---
-
-# Trying RNA Extraction with Zymo Kit for _Porites asteroides_ Samples
 
 In this Extraction I used: [Invitrogen RNA mini kit](https://www.thermofisher.com/it/en/home/life-science/dna-rna-purification-analysis/rna-extraction/rna-types/total-rna-extraction/purelink-rna-mini-kit.html), and my Protocol [1](protocols/Coral fragment RNA extraction.docx).
 

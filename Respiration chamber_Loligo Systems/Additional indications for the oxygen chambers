@@ -1,6 +1,8 @@
 
 *Additional indications for the oxygen chambers*
 
+Have a look at the '2020-12-12-Additional indications for the oxygen chambers.md' inside '_posts' for further details.
+
 -	Make sure that the wells are properly sealed before starting the run
 -	Manual calibration: once you have reached step 14d of the quick guide, click Start log and let the measurements run for a few seconds, then click Stop logging. This way you will create and save in your computer an excel file with only the calibration values
 -	Before measuring the respiration rate of your samples, incubate them in the dark for 20-30 minutes. After incubation, start the logging and let it run for around 1 hour (you can let it run for more if needed)

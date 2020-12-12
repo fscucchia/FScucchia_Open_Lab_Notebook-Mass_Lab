@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# This script is designed to create a markdown file that
+# This script was designed by hputnam (https://github.com/hputnam/Putnam_Lab_Notebook) to create a markdown file that
 # generates a formatted Jekyll header. It prompts the user
 # for a phrase and that phrase is utilized in the name of
 # the markdown file that is created.

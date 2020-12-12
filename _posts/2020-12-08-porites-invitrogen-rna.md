@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _Porites astrodies_ RNA Extraction with Invitrogen Mini Kit
+title: _Porites astreoides_ RNA Extraction with Invitrogen Mini Kit
 category: [ Extraction ]
 tags: [ RNA, Porites, RNA Extraction ]
 ---

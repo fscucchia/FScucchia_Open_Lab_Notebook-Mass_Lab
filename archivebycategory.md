@@ -5,7 +5,7 @@ active: archivebycategory
 sitemap: false
 layout: page
 ---
-#credits: This .md file was created by hputnam https://github.com/hputnam/Putnam_Lab_Notebook
+
 
 {% assign tags = site.categories | sort %}
 {% assign sorted_posts = site.posts | sort: 'title' %}

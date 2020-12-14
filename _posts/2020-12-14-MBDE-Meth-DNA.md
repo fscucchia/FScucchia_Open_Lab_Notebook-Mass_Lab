@@ -11,7 +11,7 @@ For this Methyl-Binding Domain Enrichment I used the protocol of meschedl (https
 
 ### Shearing Samples to ~500bp
 
-1. Prepare samples for 1µg in 80µl of Tris HCl, see [protocol](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/protocols/Tris%20HCL%2C%20RNA-DNA%20extraction.docxfor) Tris HCl 
+1. Prepare samples for 1µg in 80µl of Tris HCl, see [protocol](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/protocols/Tris%20HCL%2C%20RNA-DNA%20extraction.docx) Tris HCl 
 
 |Sample|Volume DNA|Volume Tris HCl|
 |---|---|---|
@@ -133,7 +133,6 @@ Each tube for ethanol precipitation gets 1µl of glycogen (co-precipitator), 1/1
 69. Removed any remaining supernatant as best as possible with the smallest pipette tip and making sure to not removed the pellet
 70. Air dried pellet for 3 minutes
 71. Resuspended pellets in 25µl of ultra pure water
-
 72. Check the DNA concentration with Nanodrop.
 
 

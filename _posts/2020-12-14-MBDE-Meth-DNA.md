@@ -23,6 +23,7 @@ For this Methyl-Binding Domain Enrichment I used the protocol of meschedl (https
 |1628|58.82|21.18|
 
 2. For shearing the samples, I used the [sonicator](https://www.mrclab.co.il/%D7%A1%D7%95%D7%A0%D7%99%D7%A7%D7%98%D7%95%D7%A8-%D7%90%D7%A6%D7%91%D7%A2-650-%D7%95%D7%95%D7%90%D7%98-%D7%A2%D7%9D-%D7%91%D7%A7%D7%A8%D7%AA-%D7%98%D7%9E%D7%A4%D7%A8%D7%98%D7%95%D7%A8%D7%94) that they have in the biology department building.
+![sonicator]({{ site.baseurl}}/images/sonicator.jpg "sonicator")
    Note: with their sonicator you can do only one sample at a time. Each sample was in a 1.5 ml tube.
 3. Set time for 1min 30 sec, 30 second on 30 seconds off, 20% amplitude
 4. Check samples on tapestation after sonication

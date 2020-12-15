@@ -14,7 +14,6 @@ For this Methyl-Binding Domain Enrichment I used the protocol of meschedl (https
 1. Prepare samples for 1µg in 80µl of Tris HCl, see [protocol](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/protocols/Tris%20HCL%2C%20RNA-DNA%20extraction.docx) Tris HCl 
 
 |Sample|Volume DNA|Volume Tris HCl|
-|---|---|---|
 |1041|16.03|63.97|
 |1471|18.25|61.75|
 |1637|18.25|68.48|
@@ -81,7 +80,7 @@ _Made 43000µl of 1X Wash/Bind buffer from 5X concentrate before starting_
 35. Transferred all of each diluted DNA sample to separate tubes with the MBD-Biotin bound beads for a total of 200µl in each tube and pipetted to mix
 36. Mixed on rotisserie mixer overnight at 4 degrees C 
 
-**September 24th 2019, Removing Non-Captured DNA**
+**Removing Non-Captured DNA**
 
 38. Again started by writing out protocol to calculate how much 1X bind/wash buffer to dilute (25000µl needed and appropriately diluted)
 39. Took tubes out of the cold room rotisserie and spun down **briefly**
@@ -112,7 +111,6 @@ _Made 43000µl of 1X Wash/Bind buffer from 5X concentrate before starting_
 Each tube for ethanol precipitation gets 1µl of glycogen (co-precipitator), 1/10th the volume of the sample of 3M sodium acetate pH 5.2, and 2 volumes of the sample 100% ethanol:
 
 |Sample|vol glycogen (µl)|vol sodium acetate (µl)| vol 100% EtOH (µl)|
-|----|-----|----|----|
 |1041 Captured|1|40|800|
 |1471 Captured|1|40|800|
 |1637 Captured|1|40|800|

@@ -14,13 +14,13 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 
 ### Contact me
 
-[federica.scucchia@mail.huji.ac.il](mailto:federica.scucchia@mail.huji.ac.il)
-[federica.scucchia@studio.unibo.it](mailto:federica.scucchia@studio.unibo.it)
+- [federica.scucchia@mail.huji.ac.il](mailto:federica.scucchia@mail.huji.ac.il)
+- [federica.scucchia@studio.unibo.it](mailto:federica.scucchia@studio.unibo.it)
 
 
 ### Education
 
-|Date|Degree|School|
+| Date | Degree | School |
 |--|--|--|
 | 2019-current | PhD | Marine Biology, University of Haifa, Israel |
 |--| Research topic | Influence of environmental stressors on the physiology, morphology and gene expression of corals, from juvenile to adult stages |
@@ -64,23 +64,23 @@ Other
 
 ### Publications
 
-1. Scucchia, F., Nativ, H., Neder, M., Goodbody-Gringley, G., & Mass, T. (2020). Physiological characteristics of _Stylophora pistillata_ larvae across a depth gradient. Frontiers in Marine Science, 7, 13.
+1. **Scucchia, F.**, Nativ, H., Neder, M., Goodbody-Gringley, G., & Mass, T. (2020). Physiological characteristics of _Stylophora pistillata_ larvae across a depth gradient. Frontiers in Marine Science, 7, 13.
 
-2. Martinez, S., Kolodny, Y., Shemesh, E., Scucchia, F., Nevo, R., Levin-Zaidman, S., Paltiel, Y., Keren, N., Tchernov, D. & Mass, T. (2020). Energy sources of the depth-generalist mixotrophic coral _Stylophora pistillata_. Frontiers in Marine Science.
+2. Martinez, S., Kolodny, Y., Shemesh, E., **Scucchia, F.**, Nevo, R., Levin-Zaidman, S., Paltiel, Y., Keren, N., Tchernov, D. & Mass, T. (2020). Energy sources of the depth-generalist mixotrophic coral _Stylophora pistillata_. Frontiers in Marine Science.
 
 
 ### Teaching activities
 
-|Date|Position|Description|
+| Date | Position | Description |
 |--|--|--|
-|2020|Teaching Assistant|Directed a students group research project for the Biology of Corals Course (The Inter-University Institute for Marine Sciences, Eilat)|
-|2019|Teaching Assistant|Directed a students group research project for the Marine Venoms and Defense System Course (The Inter-University Institute for Marine Sciences, Eilat)|
+| 2020 | Teaching Assistant|Directed a students group research project for the Biology of Corals Course (The Inter-University Institute for Marine Sciences, Eilat)|
+| 2019 | Teaching Assistant|Directed a students group research project for the Marine Venoms and Defense System Course (The Inter-University Institute for Marine Sciences, Eilat)|
 
 ### Certifications
 
 - Master Diver, SSI
 - Scientific Diver, AAUS
 
-#### Awards
+### Awards
 
-Overseas Study Program Award, funding covering one year of study at UCSB, Santa Barabara, California, USA
+- Overseas Study Program Award, funding covering one year of study at UCSB, Santa Barabara, California, USA

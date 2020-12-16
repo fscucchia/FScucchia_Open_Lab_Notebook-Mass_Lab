@@ -6,7 +6,8 @@ permalink: /about/
 
 I’m a PhD candidate in the Coral Biomineralization and Physiology Lab of Tali Mass in Haifa, Israel.
 My research is focused on the response of juvenile and adult corals to decreasing oceanic pH. In particular, I’m examining the changes in physiological and morphological characteristics,  and gene expression patterns in both the corals and the endosymbiotic algae, to better understand the response and vulnerability of these organisms to ocean acidification. 
-I’m also interested in coral phenotypic plasticity across depths and light environments, and in particular I’m exploring the changes in morphology, physiology and gene expression that enable corals to thrive across broad vertical gradients, from shallow to mesophotic reef.
+
+I’m also interested in coral phenotypic plasticity across depths and light environments, and in particular I’m exploring the changes in morphology, physiology and gene expression that enable corals to thrive across broad vertical gradients, from shallow to mesophotic reefs.
 
 ### More Information
 
@@ -73,8 +74,8 @@ Other
 
 | Date | Position | Description |
 |--|--|--|
-| 2020 | Teaching Assistant|Directed a students group research project for the Biology of Corals Course (The Inter-University Institute for Marine Sciences, Eilat)|
-| 2019 | Teaching Assistant|Directed a students group research project for the Marine Venoms and Defense System Course (The Inter-University Institute for Marine Sciences, Eilat)|
+| 2020 | Teaching Assistant|Directed a students group research project for the Biology of Corals Course (The Inter-University Institute for Marine Sciences, Eilat) |
+| 2019 | Teaching Assistant|Directed a students group research project for the Marine Venoms and Defense System Course (The Inter-University Institute for Marine Sciences, Eilat) |
 
 ### Certifications
 

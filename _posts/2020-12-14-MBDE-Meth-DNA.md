@@ -7,7 +7,7 @@ tags: [ DNA, Stylophora, Methylation, pH, Shallow, Mesophotic ]
 
 Samples for DNA methylation are from the pH experiment with shallow and mesophotic _Stylophora pistillata_ adults. The DNA was extracted by me with the [Zymo Quick-DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/collections/quick-dna-rna-kits/products/quick-dna-rna-miniprep-plus-kit), following the [protocol](https://emmastrand.github.io/EmmaStrand_Notebook/Zymo-Duet-RNA-DNA-Extraction-Protocol/) of emmastrand (https://github.com/emmastrand/EmmaStrand_Notebook/).
 
-For this Methyl-Binding Domain Enrichment I used the protocol of meschedl (https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/MBD-Meth-Comp/) with some adjustments.
+For this Methyl-Binding Domain Enrichment I used the [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/MBD-Meth-Comp/) of meschedl with some adjustments.
 
 ### Shearing Samples to ~500bp
 
@@ -133,6 +133,8 @@ Each tube for ethanol precipitation gets 1µl of glycogen (co-precipitator), 1/1
 70. Air dried pellet for 3 minutes
 71. Resuspended pellets in 25µl of ultra pure water
 72. Check the DNA concentration with Nanodrop.
+
+This protocol was followed by the [Library preparation from the enriched methylated DNA fraction](https://fscucchia.github.io/FScucchia_Lab_Notebook-Mass_Lab/library-prep-methylated-dna/)
 
 
 

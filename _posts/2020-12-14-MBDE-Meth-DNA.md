@@ -14,12 +14,12 @@ For this Methyl-Binding Domain Enrichment I used the protocol of meschedl (https
 1. Prepare samples for 1µg in 80µl of Tris HCl, see [protocol](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/protocols/Tris%20HCL%2C%20RNA-DNA%20extraction.docx) Tris HCl 
 
 |Sample|Volume DNA|Volume Tris HCl|
-|1041|16.03|63.97|
-|1471|18.25|61.75|
-|1637|18.25|68.48|
-|1101|36.9|43.1|
-|1548|43.29|36.71|
-|1628|58.82|21.18|
+|S1|16.03|63.97|
+|S2|18.25|61.75|
+|S3|18.25|68.48|
+|S4|36.9|43.1|
+|S5|43.29|36.71|
+|S6|58.82|21.18|
 
 2. For shearing the samples, I used the [sonicator](https://www.mrclab.co.il/%D7%A1%D7%95%D7%A0%D7%99%D7%A7%D7%98%D7%95%D7%A8-%D7%90%D7%A6%D7%91%D7%A2-650-%D7%95%D7%95%D7%90%D7%98-%D7%A2%D7%9D-%D7%91%D7%A7%D7%A8%D7%AA-%D7%98%D7%9E%D7%A4%D7%A8%D7%98%D7%95%D7%A8%D7%94) that they have in the biology department building.
 ![sonicator]({{ site.baseurl}}/images/sonicator.jpg "sonicator")
@@ -111,12 +111,12 @@ _Made 43000µl of 1X Wash/Bind buffer from 5X concentrate before starting_
 Each tube for ethanol precipitation gets 1µl of glycogen (co-precipitator), 1/10th the volume of the sample of 3M sodium acetate pH 5.2, and 2 volumes of the sample 100% ethanol:
 
 |Sample|vol glycogen (µl)|vol sodium acetate (µl)| vol 100% EtOH (µl)|
-|1041 Captured|1|40|800|
-|1471 Captured|1|40|800|
-|1637 Captured|1|40|800|
-|1101 Captured|1|40|800|
-|1548 Captured|1|40|800|
-|1628 Captured|1|40|800|
+|S1 Captured|1|40|800|
+|S2 Captured|1|40|800|
+|S3 Captured|1|40|800|
+|S4 Captured|1|40|800|
+|S5 Captured|1|40|800|
+|S5 Captured|1|40|800|
 
 58. Vortexed to mix and spun down
 59. Placed tubes in the -80 freezer for 3.5 hours

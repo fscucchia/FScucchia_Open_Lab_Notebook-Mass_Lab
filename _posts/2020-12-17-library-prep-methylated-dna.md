@@ -122,9 +122,8 @@ These are the run settings:
   - Added 13.5µl of the mix to new PCR tubes
   - Added 11.5µl of cleaned and concentrated DNA sample to the appropriate new PCR tube 
   - Vortexed, spun down, and placed in thermocycler program 1st Pico Methyl Amp program. For this amplification I used the big thermocycler that we have in the lab (the Bio Rad, not the SumpliAmp), I created the program inside the folder "methylation", it is the third program inside the folder. 
-  These are the run settings: 
+  These are the run settings (8 cycles total): 
   ![Pma]({{site.baseurl}}/images/Pico Methyl Amp.png "Pma")
-  **8 cycles total**
 
 **Cleanup with columns**
 
@@ -176,5 +175,7 @@ These are the run settings:
 - Incubated 1 minute
 - Centrifuged 12,000 rcf 30 seconds
 - Check DNA concentration with Nanodrop and quality with TapeStation (D5000)
-Example of TapStation results:
+
+Example of TapeStation results:
+
 ![Library]({{site.baseurl}}/images/library prep ts.png "Lybrary")

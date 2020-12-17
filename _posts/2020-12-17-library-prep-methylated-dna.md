@@ -8,7 +8,7 @@ tags: [ DNA, Methylation, Pico Library Prep, MBD, Stylophora, Shallow, Mesophoti
 Using the [Zymo Pico Methyl Seq Kit](https://www.zymoresearch.com/products/pico-methyl-seq-library-prep-kit) on the [MBD enriched](https://fscucchia.github.io/FScucchia_Lab_Notebook-Mass_Lab/MBDE-Meth-DNA/) _Stylophora_ shallow and mesophotic samples from the pH experiment. 
 For this library prep I also used the [_E. coli_ Non-Methylated Genomic DNA](https://www.zymoresearch.com/products/e-coli-non-methylated-genomic-dna) which is not supplied with the Zymo Methyl kit.
 
-For this Library prep I used the protocol of meschedl (https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/meth-comp-PMS/) with some adjustments.
+For this Library prep I used the [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/meth-comp-PMS/) of meschedl with some adjustments.
 
 ### Dilution of MBDE samples
 
@@ -16,7 +16,6 @@ The goal is to dilute the MBDE DNA samples to get a concentration of 1 ng/µl pe
 Prepare new 0.5 tubes with: 
 
 |Sample|volume DNA|volume 10mM Tris HCl|
-|----|----|---|
 |S1|1µl|61.4µl|
 |S2|1µl|53.8µl|
 |S3|1µl|85.8µl|
@@ -36,7 +35,6 @@ Need to dilute the 2.5ng/µl _E. coli_ Non-Methylated Genomic DNA (spike-in) to 
 Samples need to all include 1ng of sample, .05ng spike-in, and water up to 20µl
 
 |sample|volume DNA|volume diluted spike|volume ultra pure water to 20µl|
-|----|----|-----|----|
 |S1|1µl|2µl|17µl|
 |S2|1µl|2µl|17µl|
 |S3|1µl|2µl|17µl|
@@ -46,7 +44,7 @@ Samples need to all include 1ng of sample, .05ng spike-in, and water up to 20µl
 
 ### Bisulfite Conversion
 
-- Added 130µl lightning conversion reagent (FROM THE KIT) to each sample in a PCR tube
+- Added 130µl lightning conversion reagent (from the kit) to each sample in a PCR tube
 - Put tubes in the thermocycler Pico bisulfite conversion program: for this program I used the small thermocycler that we have in the lab (the SimpliAmp), I created the program inside the folder "methylation". 
 These are the run settings: 
 ![Psc]({{site.baseurl}}/images/Pico bisulfite conversion.png "Psc")
@@ -146,7 +144,6 @@ These are the run settings:
 - In PCR tubes combined the following:   
 
 |sample|volume DNA|volume LibAmp MM|volume i5 primer|volume i7 primer|
-|---|---|----|----|----|
 |S1|12µl|11µl|1µl 1|1µl 1|
 |S2|12µl|11µl|1µl 2|1µl 2|
 |S3|12µl|11µl|1µl 3|1µl 3|

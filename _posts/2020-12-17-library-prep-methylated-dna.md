@@ -85,8 +85,11 @@ These are the run settings:
   1. 98 for 2 minutes
   2. 8 degrees for 1 minute
   3. 8 degree hold
-     **Cycle 1**: during hold vortex, spin tubes down, add 5.05µl PrepAmp Mix to each tube, vortex, spin down, and place back in thermocycler
-     **Cycle 2**: during hold, vortex, spin tubes down, add 0.3µl PrepAmp Polymerase to each tube, vortex, spin down, and place back into thermocycler
+
+     **Cycle 1**: during hold vortex, spin tubes down, add 5.05µl PrepAmp Mix to each tube, vortex, spin down, and place back in thermocycler.
+
+     **Cycle 2**: during hold, vortex, spin tubes down, add 0.3µl PrepAmp Polymerase to each tube, vortex, spin down, and place back into thermocycler.
+     
   4. 8 degrees for 4 minutes
   5. 16 degrees for 1 minute with 3% ramp rate
   6. 22 degrees for 1 minute with 3% ramp rate

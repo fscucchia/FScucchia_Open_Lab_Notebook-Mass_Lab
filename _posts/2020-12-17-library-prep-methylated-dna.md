@@ -46,7 +46,7 @@ Samples need to all include 1ng of sample, .05ng spike-in, and water up to 20µl
 
 - Added 130µl lightning conversion reagent (from the kit) to each sample in a PCR tube
 - Put tubes in the thermocycler Pico bisulfite conversion program: for this program I used the small thermocycler that we have in the lab (the SimpliAmp), I created the program inside the folder "methylation". 
-![program1]({{site.baseurl}}/images/thermo1.png "program1")
+![program1]({{site.baseurl}}/images/thermo1.jpg "program1")
 
 These are the run settings: 
 ![Psc]({{site.baseurl}}/images/Pico bisulfite conversion.png "Psc")
@@ -82,7 +82,7 @@ These are the run settings:
   - 3.75µl PrepAmp PreMix * 13 = 48.75µl
   - 0.3µl PrepAmp polymerase * 13 = 3.9µl
 - For this amplification I used the big thermocycler that we have in the lab (the Bio Rad, not the SumpliAmp), I created the program inside the folder "methylation", it is the second program inside the folder. 
-![program2]({{site.baseurl}}/images/thermo2.png "program2")
+![program2]({{site.baseurl}}/images/thermo2.jpg "program2")
 
 **Note**: During Step 3 of **Cycle 1**, add 5.05 μl PrepAmp mix. During Step 3 of **Cycle 2**, add 0.3 μl PrepAmp Polymerase.
 - Run steps:

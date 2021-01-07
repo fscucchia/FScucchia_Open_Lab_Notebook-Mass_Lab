@@ -6,6 +6,7 @@ tag: [ Stylophora, Symbiodinium ]
 ---
 
 Design of primers for _Symbiodinium microadriaticum_ and _Symbiodinium goreaui_ to test the effect of ocean acidification on the algal endosymbiont. Samples are coming from the pH experiment with adults _S. pistillata_ corals from shallow and mesophotic reefs.
+
 **Target genes:** genes sequences were selected from the literature and blasted against _S. microadriaticum_ and _S. goreaui_. Target sequences with the highest %identity were chosen (>85%). I did the blast search using the terminal (Hive).
 
 | Gene name | Function | Sequence in _S. microadriaticum_ | Sequence in _S. goreaui_ | Reference |
@@ -19,7 +20,7 @@ Design of primers for _Symbiodinium microadriaticum_ and _Symbiodinium goreaui_ 
 
 ### Primers design
 
-I used both [idtdna](https://eu.idtdna.com/pages) and [NCBI Primer-blast](https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome) for the priemrs design.
+I used both [idtdna](https://eu.idtdna.com/pages) and [NCBI Primer-blast](https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome) for the primers design.
 To find the best primers, I followed the indication from [TTB](https://toptipbio.com/real-time-pcr-primer-blast/). Briefly:
 
 - PCR product size: 70 – 200 base pairs.
@@ -39,7 +40,7 @@ To find the best primers, I followed the indication from [TTB](https://toptipbio
 
 **Additional considerations**
 
-Before designing the primers, I aligned the sequences of the same gene from _S. microadriaticum_ and _S. goreaui_ using [Jalview](https://www.jalview.org/)(pairwise alignment), in order to find the shared regions between the genes. The idea was to design the same primer pairs for each gene for both symbiont species, but when I aligned the genes the shared sequences that I found were either too short for being chosen as primers, to close to each other (very short product lenght), or they did not meet the criteria above (high self-complementarity, low Tm, bad GC% content).
+Before designing the primers, I aligned the sequences of the same gene from _S. microadriaticum_ and _S. goreaui_ using [Jalview](https://www.jalview.org/) (pairwise alignment), in order to find the shared regions between the genes. The idea was to design the same primer pairs for each gene for both symbiont species, but when I aligned the genes the shared sequences that I found were either too short for being chosen as primers, to close to each other (very short product length), or they did not meet the criteria above (high self-complementarity, low Tm, bad GC% content).
 So I ended up designing different primers for the same gene for each species. 
 
 **Next steps**

@@ -5,7 +5,7 @@ category: [ Extraction ]
 tags: [ RNA, Porites, RNA Extraction ]
 ---
 
-In this Extraction I used: [Invitrogen RNA mini kit](https://www.thermofisher.com/it/en/home/life-science/dna-rna-purification-analysis/rna-extraction/rna-types/total-rna-extraction/purelink-rna-mini-kit.html), [my Protocol](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/protocols/Coral%20fragment%20RNA%20extraction.docx), and the [company manual](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/company-manuals/purelink_rna_mini_kit_man.pdf) from page 27.
+In this Extraction I used: [Invitrogen RNA mini kit](https://www.thermofisher.com/it/en/home/life-science/dna-rna-purification-analysis/rna-extraction/rna-types/total-rna-extraction/purelink-rna-mini-kit.html), [my Protocol](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/protocols/Coral%20fragment%20RNA%20extraction.docx), and the [company manual](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/company-manuals/purelink_rna_mini_kit_man.pdf) from page 27
 
 **Goal**: Extract high quality RNA for sequencing   
 

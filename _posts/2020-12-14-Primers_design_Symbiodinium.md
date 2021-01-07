@@ -9,14 +9,14 @@ Design of primers for _Symbiodinium microadriaticum_ and _Symbiodinium goreaui_ 
 
 **Target genes:** genes sequences were selected from the literature and blasted against _S. microadriaticum_ and _S. goreaui_. Target sequences with the highest %identity were chosen (>85%). I did the blast search using the terminal (Hive).
 
-| Gene name | Function | Sequence in _S. microadriaticum_ | Sequence in _S. goreaui_ | Reference |
-| Rubisco | Carbon fixation | rna18051 | SymbC1.scaffold13663.2.m1 | [Mayfield et al., 2014](https://link.springer.com/article/10.1007/s10126-014-9558-z) | 
-|P-type proton ATPase (PMA1)| Cellular pH regulation | rna19905 | SymbC1.scaffold4397.2.m1 | [Bertucci et al., 2009](https://royalsocietypublishing.org/doi/10.1098/rspb.2009.1266) |
-|Glutamine synthetase| Nitrogen assimilation | rna41876 | SymbC1.scaffold11723.1.m1 | [Leggat et al., 2011](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026687) |
-|SWEET1| Sugar transport | rna33639 | SymbC1.scaffold493.4.m1 | [Maor-Landaw et al., 2019](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5910) |
-|SWEET3| Sugar transport | rna18798 | SymbC1.scaffold19990.1.m1 | [Maor-Landaw et al., 2019](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5910) |
-|SAM| Normalizing gene | rna28790 | SymbC1.scaffold7218.3.m1 | [Rosic et al., 2011](https://pubmed.ncbi.nlm.nih.gov/20668900/) |
-|Rp-S4| Normalizing gene | rna2010 | SymbC1.scaffold447.4.m1 | [Rosic et al., 2011](https://pubmed.ncbi.nlm.nih.gov/20668900/) |
+| Gene name | Function | Sequence in _S. microadriaticum_ | Sequence in _S. goreaui_  |  Reference  |
+| Rubisco | Carbon fixation | rna18051 | SymbC1.scaffold13663.2.m1  |  [Mayfield et al., 2014](https://link.springer.com/article/10.1007/s10126-014-9558-z) | 
+|P-type proton ATPase (PMA1)| Cellular pH regulation | rna19905 | SymbC1.scaffold4397.2.m1  |  [Bertucci et al., 2009](https://royalsocietypublishing.org/doi/10.1098/rspb.2009.1266) |
+|Glutamine synthetase| Nitrogen assimilation | rna41876 | SymbC1.scaffold11723.1.m1  |  [Leggat et al., 2011](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026687) |
+|SWEET1| Sugar transport | rna33639 | SymbC1.scaffold493.4.m1  |  [Maor-Landaw et al., 2019](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5910) |
+|SWEET3| Sugar transport | rna18798 | SymbC1.scaffold19990.1.m1  |  [Maor-Landaw et al., 2019](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5910) |
+|SAM| Normalizing gene | rna28790 | SymbC1.scaffold7218.3.m1  |  [Rosic et al., 2011](https://pubmed.ncbi.nlm.nih.gov/20668900/) |
+|Rp-S4| Normalizing gene | rna2010 | SymbC1.scaffold447.4.m1  |  [Rosic et al., 2011](https://pubmed.ncbi.nlm.nih.gov/20668900/) |
 
 ### Primers design
 

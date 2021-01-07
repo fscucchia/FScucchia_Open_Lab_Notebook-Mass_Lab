@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Primers design for Symbiodiniaceae clade A and C
+title: Primers design for Symbiodiniaceae 
 category: [ qPCR, primers ]
 tag: [ Stylophora, Symbiotic algae, shallow, mesophotic ]
 ---

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Primers design for Symbiodinium  
+title: Primers design for Symbiodiniaceae clade A and C
 category: [ qPCR, primers ]
-tag: [ Stylophora, Symbiodinium ]
+tag: [ Stylophora, Symbiotic algae, shallow, mesophotic ]
 ---
 
-Design of primers for _Symbiodinium microadriaticum_ and _Symbiodinium goreaui_ to test the effect of ocean acidification on the algal endosymbiont. Samples are coming from the pH experiment with adults _S. pistillata_ corals from shallow and mesophotic reefs.
+Design of primers for _Symbiodinium microadriaticum_ and _Cladocopium goreaui_ to test the effect of ocean acidification on the algal endosymbiont. Samples are coming from the pH experiment with adults _S. pistillata_ corals from shallow and mesophotic reefs.
 
-**Target genes:** genes sequences were selected from the literature and blasted against _S. microadriaticum_ and _S. goreaui_. Target sequences with the highest %identity were chosen (>85%). I did the blast search using the terminal (Hive).
+**Target genes:** genes sequences were selected from the literature and blasted against _S. microadriaticum_ and _C. goreaui_. Target sequences with the highest %identity were chosen (>85%). I did the blast search using the terminal (Hive).
 
-| Gene name | Function | Sequence in _S. microadriaticum_ | Sequence in _S. goreaui_  |  Reference  |
+| Gene name | Function | Sequence in _S. microadriaticum_ | Sequence in _C. goreaui_  |  Reference  |
 | Rubisco | Carbon fixation | rna18051 | SymbC1.scaffold13663.2.m1  |  [Mayfield et al., 2014](https://link.springer.com/article/10.1007/s10126-014-9558-z) | 
 |P-type proton ATPase (PMA1)| Cellular pH regulation | rna19905 | SymbC1.scaffold4397.2.m1  |  [Bertucci et al., 2009](https://royalsocietypublishing.org/doi/10.1098/rspb.2009.1266) |
 |Glutamine synthetase| Nitrogen assimilation | rna41876 | SymbC1.scaffold11723.1.m1  |  [Leggat et al., 2011](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026687) |
@@ -35,12 +35,12 @@ To find the best primers, I followed the indication from [TTB](https://toptipbio
 
 **Steps**
 
-1. I used the [PrimerQuest Tool](https://eu.idtdna.com/pages/tools) to design the primers for _S. microadriaticum_ or _S. goreaui_ using the target sequences, retrieved using blast. As input paramters for the primers design, I used the indication written above. 
+1. I used the [PrimerQuest Tool](https://eu.idtdna.com/pages/tools) to design the primers for _S. microadriaticum_ or _C. goreaui_ using the target sequences, retrieved using blast. As input paramters for the primers design, I used the indication written above. 
 2. When getting the resulting primer sets (I usually set the search to get 5 primer sets), I double checked all primers on [NCBI Primer-blast](https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome) to make sure that the primers were specific to the target sequence and that they had a low self-complementarity score. I then chose the best primers set by following the indication above.
 
 **Additional considerations**
 
-Before designing the primers, I aligned the sequences of the same gene from _S. microadriaticum_ and _S. goreaui_ using [Jalview](https://www.jalview.org/) (pairwise alignment), in order to find the shared regions between the genes. The idea was to design the same primer pairs for each gene for both symbiont species, but when I aligned the genes the shared sequences that I found were either too short for being chosen as primers, to close to each other (very short product length), or they did not meet the criteria above (high self-complementarity, low Tm, bad GC% content).
+Before designing the primers, I aligned the sequences of the same gene from _S. microadriaticum_ and _C. goreaui_ using [Jalview](https://www.jalview.org/) (pairwise alignment), in order to find the shared regions between the genes. The idea was to design the same primer pairs for each gene for both symbiont species, but when I aligned the genes the shared sequences that I found were either too short for being chosen as primers, to close to each other (very short product length), or they did not meet the criteria above (high self-complementarity, low Tm, bad GC% content).
 So I ended up designing different primers for the same gene for each species. 
 
 **Next steps**

@@ -73,8 +73,8 @@ Other
 ### Teaching activities
 
 |  Date  |  Position  |  Description  |
-|  2020  |  Teaching Assistant  |  Directed a students group research project for the Biology of Corals Course (The Inter-University Institute for Marine Sciences, Eilat)  |
-|  2019  |  Teaching Assistant  |  Directed a students group research project for the Marine Venoms and Defense System Course (The Inter-University Institute for Marine Sciences, Eilat)  |
+|  2020  |  Teaching Assistant  |  Directed a students group research project for the Biology of Corals Course (IUI, Eilat)  |
+|  2019  |  Teaching Assistant  |  Directed a students group research project for the Marine Venoms and Defense System Course (IUI, Eilat)  |
 
 ### Certifications
 

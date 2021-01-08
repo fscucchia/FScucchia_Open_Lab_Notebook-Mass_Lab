@@ -82,6 +82,10 @@ Other
 - Master Diver, SSI
 - Scientific Diver, AAUS
 
-### Awards
+### Presentations and Awards
 
+#### Talks
+-2021 **F. Scucchia**, A. Malik, P. Zaslansky, H. M. Putnam, T. Mass_Response of _Stylophora pistillata_ primary polyps to decreasing seawater pH. PSB 2021: Bioinformatics of Corals Workshop.
+
+#### Awards
 - Overseas Study Program Award, funding covering one year of study at UCSB, Santa Barabara, California, USA

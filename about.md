@@ -23,13 +23,13 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 
 | Date | Degree | School |
 |--|--|--|
-| 2019-current | PhD | Marine Biology, University of Haifa, Israel |
-|--| Research topic | Influence of environmental stressors on the physiology, morphology and gene expression of corals, from juvenile to adult stages |
+| 2019 - current | PhD | Marine Biology, University of Haifa, Israel |
+|---| Research topic | Influence of environmental stressors on the physiology, morphology and gene expression of corals, from juvenile to adult stages |
 | 2019 | MSc | Marine Biology, University of Bologna, Italy |
-|--| Thesis | Transcriptional profiles inferring thermal stress responses of the coral _Oculina patagonica_ compared to other Mediterranean coral species |
-| 2017-2018 | Study Abroad Program | UCSB, Santa Barabara, California, USA |
+|---| Thesis | Transcriptional profiles inferring thermal stress responses of the coral _Oculina patagonica_ compared to other Mediterranean coral species |
+| 2017 - 2018 | Study Abroad Program | UCSB, Santa Barabara, California, USA |
 | 2016 | BSc | Biological Sciences, University of Bologna, Italy |
-|--| Thesis | Cold Water Corals Habitat Mapping |
+|---| Thesis | Cold Water Corals Habitat Mapping |
 | 2013 | High School Diploma | Archimede High School, Bologna, Italy |
 
 
@@ -72,10 +72,9 @@ Other
 
 ### Teaching activities
 
- | Date  | Position | Description |
- |---|---|---|
- |  2020   |  Teaching Assistant  |  Directed a students group research project for the Biology of Corals Course (IUI, Eilat)  |
- |  2019   |  Teaching Assistant  |  Directed a students group research project for the Marine Venoms and Defense System Course (IUI, Eilat)  |
+ | Date | Position | Description |
+ | 2020 |  Teaching Assistant  |  Directed a students group research project for the Biology of Corals Course (IUI, Eilat)  |
+ | 2019 |  Teaching Assistant  |  Directed a students group research project for the Marine Venoms and Defense System Course (IUI, Eilat)  |
 
 ### Certifications
 
@@ -85,7 +84,7 @@ Other
 ### Presentations and Awards
 
 #### Talks
-- 2021 **F. Scucchia**, A. Malik, P. Zaslansky, H. M. Putnam, T. Mass_Response of _Stylophora pistillata_ primary polyps to decreasing seawater pH. PSB 2021: Bioinformatics of Corals Workshop.
+- 2021 | **F. Scucchia**, A. Malik, P. Zaslansky, H. M. Putnam, T. Mass_Response of _Stylophora pistillata_ primary polyps to decreasing seawater pH. PSB 2021: Bioinformatics of Corals Workshop.
 
 #### Awards
 - Overseas Study Program Award, funding covering one year of study at UCSB, Santa Barabara, California, USA

@@ -5,9 +5,9 @@ category: [ Extraction ]
 tags: [ RNA, Stylophora, RNA Extraction, larvae, primary polyps ]
 ---
 
-In this Extraction I used: [Invitrogen RNA micro kit](https://www.thermofisher.com/order/catalog/product/12183016?SID=srch-srp-12183016#/12183016?SID=srch-srp-12183016), [my Protocol](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/protocols/Coral%20fragment%20RNA%20extraction.docx), and the [company manual](https://www.thermofisher.com/document-connect/document-connect.html?url=https%3A%2F%2Fassets.thermofisher.com%2FTFS-Assets%2FLSG%2Fmanuals%2Fpurelink_rna_micro_kit_man.pdf&title=UHVyZUxpbmsmdHJhZGU7IFJOQSBNaWNybyBLaXQ=) from page 19.
+In this Extraction I used: [Invitrogen RNA micro kit](https://www.thermofisher.com/order/catalog/product/12183016?SID=srch-srp-12183016#/12183016?SID=srch-srp-12183016), [my Protocol](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/protocols/Coral%20fragment%20RNA%20extraction.docx), and the [company manual](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/company-manuals/purelink_rna_micro_kit_man.pdf) from page 19.
 
-**Goal**: Extract high quality RNA for sequencing   
+**Goal**: Extract high quality RNA for sequencing.   
 
 ## Sample Preparation
 

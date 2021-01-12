@@ -73,8 +73,8 @@ Other
 ### Teaching activities
 
  | Date | Position | Description |
- | 2020- |  Teaching Assistant  |  Directed a students group research project for the Biology of Corals Course (IUI, Eilat)  |
- | 2019- |  Teaching Assistant  |  Directed a students group research project for the Marine Venoms and Defense System Course (IUI, Eilat)  |
+ | 2020_ |  Teaching Assistant  |  Directed a students group research project for the Biology of Corals Course (IUI, Eilat)  |
+ | 2019_ |  Teaching Assistant  |  Directed a students group research project for the Marine Venoms and Defense System Course (IUI, Eilat)  |
 
 ### Certifications
 
@@ -84,7 +84,7 @@ Other
 ### Presentations and Awards
 
 #### Talks
-- 2021_**F. Scucchia**, A. Malik, P. Zaslansky, H. M. Putnam, T. Mass_Response of _Stylophora pistillata_ primary polyps to decreasing seawater pH. PSB 2021: Bioinformatics of Corals Workshop.
+- 2021 - **F. Scucchia**, A. Malik, P. Zaslansky, H. M. Putnam, T. Mass_Response of _Stylophora pistillata_ primary polyps to decreasing seawater pH. PSB 2021: Bioinformatics of Corals Workshop.
 
 #### Awards
 - Overseas Study Program Award, funding covering one year of study at UCSB, Santa Barabara, California, USA

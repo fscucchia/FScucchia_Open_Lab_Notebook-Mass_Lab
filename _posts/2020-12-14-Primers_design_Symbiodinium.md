@@ -17,6 +17,7 @@ Design of primers for _Symbiodinium microadriaticum_ and _Cladocopium goreaui_ t
 |SWEET3| Sugar transport | rna18798 | SymbC1.scaffold19990.1.m1  |  [Maor-Landaw et al., 2019](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5910) |
 |SAM| Normalizing gene | rna28790 | SymbC1.scaffold7218.3.m1  |  [Rosic et al., 2011](https://pubmed.ncbi.nlm.nih.gov/20668900/) |
 |Rp-S4| Normalizing gene | rna2010 | SymbC1.scaffold447.4.m1  |  [Rosic et al., 2011](https://pubmed.ncbi.nlm.nih.gov/20668900/) |
+|Cyc| Normalizing gene | rna21293 | SymbC1.scaffold9955.1.m1  |  [Rosic et al., 2011](https://pubmed.ncbi.nlm.nih.gov/20668900/) |
 
 ### Primers design
 

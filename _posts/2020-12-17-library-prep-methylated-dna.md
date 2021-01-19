@@ -12,16 +12,29 @@ For this Library prep I used the [protocol](https://meschedl.github.io/MESPutnam
 
 ### Dilution of MBDE samples
 
-The goal is to dilute the MBDE DNA samples to get a concentration of 1 ng/µl per each. 
-Prepare new 0.5 tubes with: 
+I diluted the MBDE DNA samples to get a concentration of 0.5 ng/µl per each. 
+Prepared new 0.5 tubes with: 
 
-|Sample|volume DNA|volume 10mM Tris HCl|
-|S1|1µl|61.4µl|
-|S2|1µl|53.8µl|
-|S3|1µl|85.8µl|
-|S4|1µl|26.1µl|
-|S5|1µl|22.1µl|
-|S6|1µl|16µl|
+|Sample|volume DNA|volume ultra pure water|
+|S1|1µl|24.2µl|
+|S2|1µl|4.4µl|
+|S3|1µl|0.4µl|
+|S4|1µl|12.6µl|
+|S5|1µl|6µl|
+|S6|1µl|5.4µl|
+|S7|1µl|4.4µl|
+|S8|1µl|2.8µl|
+|S9|1µl|4µl|
+|S10|1µl|4µl|
+|S11|1µl|0.4µl|
+|S12|1µl|4.2µl|
+|S13|1µl|2.4µl|
+|S14|1µl|28.6µl|
+|S15|1µl|1.8µl|
+|S16|1µl|9.8µl|
+|S17|1µl|1.8µl|
+|S18|1µl|95.2µl|
+
 
 ### Dilution of Non-methlated eColi DNA
 
@@ -35,12 +48,24 @@ Need to dilute the 2.5ng/µl _E. coli_ Non-Methylated Genomic DNA (spike-in) to 
 Samples need to all include 1ng of sample, .05ng spike-in, and water up to 20µl
 
 |sample|volume DNA|volume diluted spike|volume ultra pure water to 20µl|
-|S1|1µl|2µl|17µl|
-|S2|1µl|2µl|17µl|
-|S3|1µl|2µl|17µl|
-|S4|1µl|2µl|17µl|
-|S5|1µl|2µl|17µl|
-|S6|1µl|2µl|17µl|
+|S1|2µl|2µl|16µl|
+|S2|2µl|2µl|16µl|
+|S3|2µl|2µl|16µl|
+|S4|2µl|2µl|16µl|
+|S5|2µl|2µl|16µl|
+|S6|2µl|2µl|16µl|
+|S7|2µl|2µl|16µl|
+|S8|2µl|2µl|16µl|
+|S9|2µl|2µl|16µl|
+|S10|2µl|2µl|16µl|
+|S11|2µl|2µl|16µl|
+|S12|2µl|2µl|16µl|
+|S13|2µl|2µl|16µl|
+|S14|2µl|2µl|16µl|
+|S15|2µl|2µl|16µl|
+|S16|2µl|2µl|16µl|
+|S17|2µl|2µl|16µl|
+|S18|2µl|2µl|16µl|
 
 ### Bisulfite Conversion
 
@@ -154,9 +179,21 @@ These are the run settings:
 |S1|12µl|11µl|1µl 1|1µl 1|
 |S2|12µl|11µl|1µl 2|1µl 2|
 |S3|12µl|11µl|1µl 3|1µl 3|
-|S4|12µl|11µl|1µl 10|1µl 11|
-|S5|12µl|11µl|1µl 11|1µl 10|
-|S6|12µl|11µl|1µl 12µl|1µl 12µl|
+|S4|12µl|11µl|1µl 4|1µl 4|
+|S5|12µl|11µl|1µl 5|1µl 5|
+|S6|12µl|11µl|1µl 6|1µl 6|
+|S7|12µl|11µl|1µl 7|1µl 7|
+|S8|12µl|11µl|1µl 8|1µl 8|
+|S9|12µl|11µl|11µl 9|1µl 9|
+|S10|12µl|11µl|1µl 10|1µl 10|
+|S11|12µl|11µl|1µl 11|1µl 11|
+|S12|12µl|11µl|1µl 12|1µl 12|
+|S13|12µl|11µl|1µl 13|1µl 13|
+|S14|12µl|11µl|1µl 14|1µl 14|
+|S15|12µl|11µl|1µl 15|1µl 15|
+|S16|12µl|11µl|1µl 16|1µl 16|
+|S17|12µl|11µl|1µl 17|1µl 17|
+|S18|12µl|11µl|1µl 18|1µl 18|
 
 - Vortexed, spun down, and placed in thermocycler program 2nd Pico Methyl Amp program. For this amplification I used the big thermocycler that we have in the lab (the Bio Rad, not the SumpliAmp), I created the program inside the folder "methylation", it is the fourth program inside the folder. 
 These are the run settings: 

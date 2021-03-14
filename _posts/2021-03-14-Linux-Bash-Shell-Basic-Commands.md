@@ -7,7 +7,9 @@ tags: [ Hive, Bash, Bioinformatics ]
 
 Using the Hive shell for genomic analyses. [Hive](https://hivehpc.haifa.ac.il/) is a high performance computing system of the Faculty of Natural Sciences at University of Haifa. This document is intended to provide helpful commands for the Hive shell. 
 
-### Basic commands
+
+
+**Basic commands**
 
 *cd* #current directory
 

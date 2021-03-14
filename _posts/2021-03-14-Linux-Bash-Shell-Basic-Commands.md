@@ -6,7 +6,7 @@ tags: [ Hive, Bash, Bioinformatics ]
 ---
 
 Using the Hive shell for genomic analyses. [Hive](https://hivehpc.haifa.ac.il/) is a high performance computing system of the Faculty of Natural Sciences at University of Haifa. This document is intended to provide helpful commands for the Hive shell. 
-
+In order to connect to the access node of Hive, you need to connect to Hive using SSH protocol. If you work with Windows, download [Bitvise](https://www.bitvise.com/ssh-client) for an easy connection to the server.
 
 
 **Basic commands**

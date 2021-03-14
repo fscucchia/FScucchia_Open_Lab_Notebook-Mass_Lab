@@ -7,7 +7,7 @@ tags: [ Hive, Bash, Bioinformatics ]
 
 Using the Hive shell for genomic analyses. [Hive](https://hivehpc.haifa.ac.il/) is a high performance computing system of the Faculty of Natural Sciences at University of Haifa. This document is intended to provide helpful commands for the Hive shell. 
 
-**Basic commands**
+### Basic commands
 
 *cd* #current directory
 
@@ -57,14 +57,15 @@ ls *.txt #list all the txt files in the directory
 
 *cat* #displays the contents of a file
 
-#three commands used to change ownership and permissions of files
-*chown* #changes user ownership of a file.
-*chgrp* #changes group ownership of a file.
-*chmod* #changes the permissions of a file. As an example, chmod 666 file.txt will set a file called file.txt to be both readable and writable by the owner.
-      #As an example, chmod g+w file.txt will make file.txt writeable by anyone with group ownership. 
+*chown* #changes user ownership of a file
+
+*chgrp* #changes group ownership of a file
+
+*chmod* #changes the permissions of a file. As an example, chmod 666 file.txt will set a file called file.txt to be both readable and writable by the owner. As an example, chmod g+w file.txt will make file.txt writeable by anyone with group ownership. 
 
 
 #Run R in Hive
+
 *conda activate R_setting6*
 *srun --pty -p hiveunlim,hive7d,hive1d R*
 

@@ -13,7 +13,6 @@ In order to connect to the access node of Hive, you need to connect to Hive usin
 
 If you want to get familiar with Linux and its command line in order to access the full range of bioinformatics tools available to researchers, I strongly recommend to take the free course [Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R](https://www.futurelearn.com/courses/linux-for-bioinformatics). On this course, the educators from the Wellcome Genome Campus (WGC) Advanced Courses and Scientific Conferences are joined by experts from the Institut Pasteur de Tunis, to give practical training using real biological data in different biological scenarios. This will help you see how you can work with data in your own field of biology.
 
-
 **Basic commands**
 
 *cd* #current directory
@@ -96,15 +95,13 @@ In addition to strings, awk can also filter on numeric values. For example:
 
 *awk -F”\t” ‘$1>1’ Diamonds_fix.txt* #this will print all lines in which the first column has a value greater than 1. 
 
-
-#Run R in Hive
+- How to run R in Hive:
 
 *conda activate R_setting6*
 
 followed by
 
 *srun --pty -p hiveunlim,hive7d,hive1d R*
-
 
 - Shared softwares in Hive are located in /data/apps and working with the help of module utility LMOD (which allows to load and unload needed software and versions of software), you can read about module here: https://lmod.readthedocs.io/en/latest/010_user.html
 

@@ -75,9 +75,28 @@ If you want to get familiar with Linux and its command line in order to access t
 
 *chmod* #changes the permissions of a file. As an example, chmod 666 file.txt will set a file called file.txt to be both readable and writable by the owner. As an example, chmod g+w file.txt will make file.txt writeable by anyone with group ownership. 
 
+- AWK is a programming language. It is particularly useful for processing text files and extracting data, particularly when a file is split into columns or delimited by a specific character (e.g. a comma).
+
+*awk -F”\t” '{print $1}' Diamonds_fix.txt* #this will print the value in the first column of the file Diamonds_fix.txt.
+
+*awk -F”\t” ‘$2==”Ideal” '{print $0}' Diamonds_fix.txt* #this prints only the lines of Diamonds_fix.txt in which column 2 (cut) contains the value “Ideal”.
+
+Patterns can be combined using the && symbol (for and) so a line is printed only if two or more conditions are met. For example:
+
+*awk -F”\t” ‘$2==”Ideal” && $4==”SI2”’ Diamonds_fix.txt*
+
+Likewise, using the || symbol (for or), we can print if any one of two or more conditions is met. For example:
+
+*awk -F”\t” ‘$2==”Ideal” || $4==”SI2”’ Diamonds_fix.txt*
+
+In addition to strings, awk can also filter on numeric values. For example:
+
+*awk -F”\t” ‘$1>1’ Diamonds_fix.txt* #this will print all lines in which the first column has a value greater than 1. 
+
 
 #Run R in Hive
 
 *conda activate R_setting6*
+followed by
 *srun --pty -p hiveunlim,hive7d,hive1d R*
 

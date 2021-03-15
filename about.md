@@ -36,7 +36,7 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 ###  Skills and Techniques
 
 Laboratory
-- DNA and RNA extraction from coral tissue: _Oculina patagonica_(adults), _Porites astreoides_ (larvae and adults) and _Stylophora pistillata_ (larvae, primary polyps and adults) 
+- DNA and RNA extraction from coral tissue: _Oculina patagonica_ (adults), _Porites astreoides_ (larvae and adults) and _Stylophora pistillata_ (larvae, primary polyps and adults) 
 - cDNA synthesis, primers design, gel electrophoresis, PCR, qPCR 
 - Nanodrop and TapeStation analysis of DNA and RNA
 - DNA methylation enrichment using Methyl Binding Domain protein

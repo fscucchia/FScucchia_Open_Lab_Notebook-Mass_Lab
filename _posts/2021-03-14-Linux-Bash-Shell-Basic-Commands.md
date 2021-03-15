@@ -8,6 +8,7 @@ tags: [ Hive, Bash, Bioinformatics ]
 Using the Hive shell for genomic analyses. [Hive](https://hivehpc.haifa.ac.il/) is a high performance computing system of the Faculty of Natural Sciences at University of Haifa. This document is intended to provide helpful commands for the Hive shell. 
 
 In order to connect to the access node of Hive, you need to connect to Hive using SSH protocol. If you work with Windows, download [Bitvise](https://www.bitvise.com/ssh-client) for an easy connection to the server.
+
 ![Bitvise]({{site.baseurl}}/images/Bitvise.jpg "Bitvise")
 
 If you want to get familiar with Linux and its command line in order to access the full range of bioinformatics tools available to researchers, I strongly recommend to take the free course [Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R](https://www.futurelearn.com/courses/linux-for-bioinformatics). On this course, the educators from the Wellcome Genome Campus (WGC) Advanced Courses and Scientific Conferences are joined by experts from the Institut Pasteur de Tunis, to give practical training using real biological data in different biological scenarios. This will help you see how you can work with data in your own field of biology.
@@ -85,10 +86,6 @@ Patterns can be combined using the && symbol (for and) so a line is printed only
 
 *awk -F”\t” ‘$2==”Ideal” && $4==”SI2”’ Diamonds_fix.txt*
 
-Likewise, using the || symbol (for or), we can print if any one of two or more conditions is met. For example:
-
-*awk -F”\t” ‘$2==”Ideal” || $4==”SI2”’ Diamonds_fix.txt*
-
 In addition to strings, awk can also filter on numeric values. For example:
 
 *awk -F”\t” ‘$1>1’ Diamonds_fix.txt* #this will print all lines in which the first column has a value greater than 1. 
@@ -97,6 +94,8 @@ In addition to strings, awk can also filter on numeric values. For example:
 #Run R in Hive
 
 *conda activate R_setting6*
+
 followed by
+
 *srun --pty -p hiveunlim,hive7d,hive1d R*
 

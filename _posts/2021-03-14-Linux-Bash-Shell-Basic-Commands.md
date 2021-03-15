@@ -73,7 +73,7 @@ If you want to get familiar with Linux and its command line in order to access t
 
 *chgrp* #changes group ownership of a file
 
-*chmod* #changes the permissions of a file. As an example, chmod 666 file.txt will set a file called file.txt to be both readable and writable by the owner. As an example, chmod g+w file.txt will make file.txt writeable by anyone with group ownership. 
+*chmod* #changes the permissions of a file. As an example, *chmod 666 file.txt* will set a file called file.txt to be both readable and writable by the owner. As another example, *chmod g+w file.txt* will make file.txt writeable by anyone with group ownership. 
 
 *set* #this sets or unsets shell variables. If used without an argument then it will print a list of all variables, both shell and environment, and shell functions.
 
@@ -103,7 +103,7 @@ followed by
 
 *srun --pty -p hiveunlim,hive7d,hive1d R*
 
-- Shared softwares in Hive are located in /data/apps and working with the help of module utility LMOD (which allows to load and unload needed software and versions of software), you can read about module here: https://lmod.readthedocs.io/en/latest/010_user.html
+- Shared softwares in Hive are located in /data/apps and working with the help of module utility LMOD (which allows to load and unload needed software and versions of software), you can read about module [here](https://lmod.readthedocs.io/en/latest/010_user.html).
 
 - Use command # module avail to see what software is installed already in public place
 

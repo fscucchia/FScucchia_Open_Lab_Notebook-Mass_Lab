@@ -61,6 +61,12 @@ In order to connect to the access node of Hive, you need to connect to Hive usin
 
 *cat* #displays the contents of a file
 
+*sort* #orders a list of items both alphabetically and numerically
+
+*uniq* #removes any repeated lines, only if they are adjacent to each other
+
+*grep* #globally search for a regular expression and print matching lines
+
 *chown* #changes user ownership of a file
 
 *chgrp* #changes group ownership of a file

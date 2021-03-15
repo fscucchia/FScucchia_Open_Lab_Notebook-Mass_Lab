@@ -45,7 +45,7 @@ If you want to get familiar with Linux and its command line in order to access t
 
 *screen -ls* #lists of active screens
 
-*bash* #send command to hive
+*bash nameoffile* #run bash script
 
 *sacct* #check work on hive queue
 

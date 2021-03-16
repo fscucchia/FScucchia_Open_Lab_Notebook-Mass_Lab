@@ -126,6 +126,15 @@ This condition will return true if string1 and string2 are identical:
 This condition will return true if string1 and string2 are different from one another:
 - `[[ ${string1} != ${string2} ]]`
 
+**Conditional statements** come in many forms. The most basic form essentially says: **IF** our conditions are met, **THEN** execute the following code.
+We can write our if statements in several ways:
+```
+> if [[ condition ]]
+> then
+>    	command
+> fi
+```
+
 AWK is a programming language. It is particularly useful for processing text files and extracting data, particularly when a file is split into columns or delimited by a specific character (e.g. a comma).
 - `awk -F”\t” '{print $1}' Diamonds_fix.txt`  this will print the value in the first column of the file Diamonds_fix.txt.
 

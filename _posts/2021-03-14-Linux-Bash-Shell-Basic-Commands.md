@@ -13,7 +13,7 @@ In order to connect to the access node of Hive, you need to connect to Hive usin
 
 If you want to get familiar with Linux and its command line in order to access the full range of bioinformatics tools available to researchers, I strongly recommend to take the free course [Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R](https://www.futurelearn.com/courses/linux-for-bioinformatics). On this course, the educators from the Wellcome Genome Campus (WGC) Advanced Courses and Scientific Conferences are joined by experts from the Institut Pasteur de Tunis, to give practical training using real biological data in different biological scenarios. This will help you see how you can work with data in your own field of biology.
 
-``Basic commands``
+**Basic commands**
 
 - `cd`  current directory
 

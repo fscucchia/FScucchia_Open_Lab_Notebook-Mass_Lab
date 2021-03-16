@@ -53,7 +53,7 @@ If you want to get familiar with Linux and its command line in order to access t
 
 - `which`  show the location of an object
 
-- `ls `.txt`  list all the txt files in the directory
+- `ls *.txt`  list all the txt files in the directory
 
 - `less nameoffile`  show content of file.If you want to look at a very long file then use the less command, as it will display one page at a time. You can then scroll up and down through the file. Use space to advance of one page.
 

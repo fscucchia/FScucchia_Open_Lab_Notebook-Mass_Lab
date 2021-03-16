@@ -163,6 +163,14 @@ Use **case** statements to check each condition in turn and process commands bas
 > esac
 ```
 
+The basic syntax for a **for loop** is:
+```
+> for variable in ${list}
+> do
+>    	# Execute some commands
+> done
+```
+
 AWK is a programming language. It is particularly useful for processing text files and extracting data, particularly when a file is split into columns or delimited by a specific character (e.g. a comma).
 - `awk -F”\t” '{print $1}' Diamonds_fix.txt`  this will print the value in the first column of the file Diamonds_fix.txt.
 

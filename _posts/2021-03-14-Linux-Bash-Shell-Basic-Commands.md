@@ -150,6 +150,21 @@ The syntax for this looks like:
 > fi
 ```
 
+Use **case** statements to check each condition in turn and process commands based on those conditions. The case syntax looks like this:
+```
+> case $string in
+>    	pattern_1)
+>      	command
+>     	;;
+>    	pattern_2)
+>      	alternate command
+>      	;;
+>    	*)
+>      	default command
+>      	;;
+> esac
+```
+
 AWK is a programming language. It is particularly useful for processing text files and extracting data, particularly when a file is split into columns or delimited by a specific character (e.g. a comma).
 - `awk -F”\t” '{print $1}' Diamonds_fix.txt`  this will print the value in the first column of the file Diamonds_fix.txt.
 

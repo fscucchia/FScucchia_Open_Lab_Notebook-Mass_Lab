@@ -139,6 +139,17 @@ We can write our if statements in several ways:
 > fi
 ```
 
+Conditional statements can be extended to have another clause by using an **if**..**else** statement. Here we are saying, **IF**  conditions are met, **THEN** execute the following commands. However, **ELSE IF** these conditions are not met, execute a different set of commands.
+The syntax for this looks like:
+```
+> if [[ condition ]]
+> then
+>    	command1
+> else
+>    	command2
+> fi
+```
+
 AWK is a programming language. It is particularly useful for processing text files and extracting data, particularly when a file is split into columns or delimited by a specific character (e.g. a comma).
 - `awk -F”\t” '{print $1}' Diamonds_fix.txt`  this will print the value in the first column of the file Diamonds_fix.txt.
 

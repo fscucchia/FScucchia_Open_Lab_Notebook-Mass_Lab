@@ -81,26 +81,56 @@ If you want to get familiar with Linux and its command line in order to access t
 
 - `export`  this command sets environment variables.
 
-AWK is a programming language. It is particularly useful for processing text files and extracting data, particularly when a file is split into columns or delimited by a specific character (e.g. a comma).
+To assign a variable, we use the `=` symbol:
+- `name="Sam"`
 
+Because variables may contain whitespace which gets interpreted by bash, it’s good practice to wrap the variable name in curly brackets and encase it in double quotes:
+- `echo "${name}"`
+
+You can initialise an array by assigning values that are separated by spaces in standard brackets.For example:
+- `array=("value 1" "value 2" "value 3")`
+Each value in an array is known as an element. Each element in an array is referenced by a numerical index. This index starts at 0.
+The syntax to access the first value in our array would be:
+- `echo "${array[0]}"`
+We can return all of the values in our array by using the `@` symbol:
+- `echo "${array[@]}"`
+
+Modern Bash syntax for conditional expressions encases our comparative expression inside double square brackets `([[` and `]])`.
+The syntax for this is:
+- `[[ option arg1 ]]`
+or
+- `[[ arg1 operator arg2 ]]`
+A conditional expression returns a Boolean value i.e. true or false. If the condition is met, it will return true and if not, false.
+Returns true if the file exists:
+- `[[ -e ${file} ]]`
+Returns true if the file exists and is a directory:
+- `[[ -d ${directory} ]]`
+Returns true if the file exists and is a regular file:
+- `[[ -f ${file} ]]`
+Returns true if the file exists and is readable:
+- `[[ -r ${file} ]]`
+Strings, as sequences of characters, can be compared. There are two string conditional expressions you need to be aware of:
+- Is equal to `==`
+- Is not equal to `!=`
+This condition will return true if string1 and string2 are identical:
+- `[[ ${string1} == ${string2} ]]`
+This condition will return true if string1 and string2 are different from one another:
+- `[[ ${string1} != ${string2} ]]`
+
+AWK is a programming language. It is particularly useful for processing text files and extracting data, particularly when a file is split into columns or delimited by a specific character (e.g. a comma).
 - `awk -F”\t” '{print $1}' Diamonds_fix.txt`  this will print the value in the first column of the file Diamonds_fix.txt.
 
 - `awk -F”\t” ‘$2==”Ideal” '{print $0}' Diamonds_fix.txt`  this prints only the lines of Diamonds_fix.txt in which column 2 (cut) contains the value “Ideal”.
 
 Patterns can be combined using the && symbol (for and) so a line is printed only if two or more conditions are met. For example:
-
 - `awk -F”\t” ‘$2==”Ideal” && $4==”SI2”’ Diamonds_fix.txt`
 
 In addition to strings, awk can also filter on numeric values. For example:
-
 - `awk -F”\t” ‘$1>1’ Diamonds_fix.txt`  this will print all lines in which the first column has a value greater than 1. 
 
 How to run **R** in Hive:
-
 - `conda activate R_setting6`
-
 followed by
-
 - `srun --pty -p hiveunlim,hive7d,hive1d R`
 
 Shared softwares in Hive are located in /data/apps and working with the help of module utility LMOD (which allows to load and unload needed software and versions of software), you can read about module [here](https://lmod.readthedocs.io/en/latest/010_user.html).

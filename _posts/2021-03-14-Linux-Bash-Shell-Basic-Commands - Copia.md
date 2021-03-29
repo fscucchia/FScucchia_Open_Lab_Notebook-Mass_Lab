@@ -185,6 +185,14 @@ The basic syntax for a **run-until loop** is:
 > done
 ```
 
+**Bash function** syntax is pretty straightforward. Start off by defining the function name, followed by parentheses. The commands that we want to execute are found between the curly brackets and are known as the body of the function.
+```
+> function my_function() {
+>       #some code
+> }
+```
+
+
 AWK is a programming language. It is particularly useful for processing text files and extracting data, particularly when a file is split into columns or delimited by a specific character (e.g. a comma).
 - `awk -F”\t” '{print $1}' Diamonds_fix.txt`  this will print the value in the first column of the file Diamonds_fix.txt.
 

@@ -169,6 +169,22 @@ The basic syntax for a **for loop** is:
 > done
 ```
 
+The basic syntax for a **while loop** is:
+```
+> while [condition]
+> do
+>    	# Commands to run
+> done
+```
+
+The basic syntax for a **run-until loop** is:
+```
+> until [condition]
+> do
+>    	# Commands to run
+> done
+```
+
 AWK is a programming language. It is particularly useful for processing text files and extracting data, particularly when a file is split into columns or delimited by a specific character (e.g. a comma).
 - `awk -F”\t” '{print $1}' Diamonds_fix.txt`  this will print the value in the first column of the file Diamonds_fix.txt.
 

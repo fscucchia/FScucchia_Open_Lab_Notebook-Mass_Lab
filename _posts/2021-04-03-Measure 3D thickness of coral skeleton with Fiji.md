@@ -7,7 +7,7 @@ tags: [ Biomineralization, Stylophora, primary polyps, skeletal thickness ]
 
 Measuring 3D thickness of the skeletal septa of _Stylophora pistillata_ primary polyps. A laboratory micro-CT (Skyscan1172, Bruker micro-CT, Belgium) was used to image the primary polyps. Scan data were viewed in 3D using CTvox (v 3.0, Brucker-microCT, Belgium) and analyzed as a stack.
 
-![3D]({{site.baseurl}}/images/3D.jpg "3D")
+
 
 ### Thresholding on the z-stack
 
@@ -16,7 +16,7 @@ Measuring 3D thickness of the skeletal septa of _Stylophora pistillata_ primary 
 - Go to Analyze>Set Scale and spatially calibrate you stack with the desired units. 
 - Go to Image>Adjust>Threshold and select `Otsu` as thresholding approach. You can select any color for your thresholded image (Red, B&W, Over/Under). Scroll among the thresholded images in the stack to find the best threshold percentage, that can be adjusted using the arrows in the threshold menu. 
 
-![3D]({{site.baseurl}}/images/3D.jpg "3D") ![Threshold]({{site.baseurl}}/images/Threshold.gif "Threshold")
+![Threshold]({{site.baseurl}}/images/Threshold.gif "Threshold")
 
 Then click on `Apply`, choose the background color in the new menu window that pops up and mark `Calculate threshold for each image`. 
 

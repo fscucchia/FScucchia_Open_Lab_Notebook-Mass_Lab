@@ -7,7 +7,7 @@ tags: [ Biomineralization, Stylophora, primary polyps, skeletal thickness ]
 
 Measuring 3D thickness of the skeletal septa of _Stylophora pistillata_ primary polyps. A laboratory micro-CT (Skyscan1172, Bruker micro-CT, Belgium) was used to image the primary polyps. Scan data were viewed in 3D using CTvox (v 3.0, Brucker-microCT, Belgium) and analyzed as a stack.
 
-
+![3D]({{site.baseurl}}/images/3D.jpg "3D")
 
 ### Thresholding on the z-stack
 

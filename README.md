@@ -1,6 +1,6 @@
-<p align="center">
-  //*Open Science_Transparent, Accessible and Reproducible Work*
-</p>  
+<div align="center">
+  *Open Science_Transparent, Accessible and Reproducible Work*
+</div>
 
 This [open lab notebook](https://fscucchia.github.io/FScucchia_Lab_Notebook-Mass_Lab/) contains analyses and products of my PhD research at the [Mass Lab](https://sites.google.com/marsci.haifa.ac.il/masslab/home?authuser=0/) (Coral Biomineralization and Physiology).
 This notebook is platformed on GitHub and it is directly linked to GitHub repositories that contain further details presented in notebook posts. 

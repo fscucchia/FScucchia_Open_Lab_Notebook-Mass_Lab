@@ -57,7 +57,7 @@ Computational
 - Proficiency with RStudio
 - Basic shell scripting language
 - Knowledge of most basic statistical methods used in biological data 
-- Bioinformatics: whole-transcriptome RNA-Seq analysis. Tools used: STAR, DIAMOND, DESeq, GOseq, GSEA
+- Bioinformatics: whole-transcriptome RNA-Seq analysis. Tools used: STAR, HISAT2, StringTie, DIAMOND, DESeq, GOseq, GSEA
 
 Other
 - Collection of coral samples (larvae and adults) from the field (scuba diving)

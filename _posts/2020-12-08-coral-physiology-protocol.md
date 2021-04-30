@@ -52,7 +52,7 @@ These instructions allow to quantitatively assess coral physiological parameters
 21.	Centrifuge for 5 minutes at 5000rpm at 4°C.
 
 22.	Check Optical Density (at wave lengths 630, 647, 664, and 697 nm) in a 96-well plate using 95% Acetone as blank (triplicates of 200 ul per each sample). I calculated chlorophyll a concentrations according to the equation of [Ritchie (2008)](https://link.springer.com/article/10.1007/s11099-008-0019-7): 
-Chl–a= –0.3319*(A630) – 1.7485*(A647) + 11.9442*(A664) – 1.4306*(A691)    
+Chl–a= –0.3319(A630) – 1.7485(A647) + 11.9442(A664) – 1.4306(A691)    
 
 
 

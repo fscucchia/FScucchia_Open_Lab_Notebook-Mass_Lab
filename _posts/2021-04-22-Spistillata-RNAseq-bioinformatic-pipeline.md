@@ -5,7 +5,7 @@ category: [ RNAseq, Transcriptomics, Bioinformatics ]
 tags: [ Stylophora, Shallow, Mesophotic, gene expression ]
 ---
 
-This post contains the bioinformatic pipeline used for analyzing _Stylophora pistillata_ RNA sequences, to reveal gene expression dynamics across shallow (5 m) and mesophotic (45 m) reefs under ambient (8.2 pH), intermediate-low (7.8 pH), and low (7.6 pH) pH conditions. All the scripts employed for the analysis can be found in the [project electronic notebook](https://github.com/fscucchia/Spistillata_OA_Shallow_and_Mesophotic).
+This post contains the bioinformatic pipeline used for analyzing _Stylophora pistillata_ mRNA sequences, to reveal gene expression dynamics across shallow (5 m) and mesophotic (45 m) reefs under ambient (8.2 pH), intermediate-low (7.8 pH), and low (7.6 pH) pH conditions. All the scripts employed for the analysis can be found in the [project electronic notebook](https://github.com/fscucchia/Spistillata_OA_Shallow_and_Mesophotic).
 
 ### 1) RNA-Seq reads quality filtering and mapping
 

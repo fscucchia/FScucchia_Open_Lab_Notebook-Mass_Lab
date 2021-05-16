@@ -73,7 +73,7 @@ Other
 
 ### Teaching activities
 
- | Date | Position | Description |
+ | Date  | Position | Description |
  | 2021_ |  Teaching Assistant  | Directed a students group research project for the Marine Photosynthesis Course (IUI, Eilat) |
  | 2020_ |  Teaching Assistant  | Directed a students group research project for the Biology of Corals Course (IUI, Eilat) |
  | 2019_ |  Teaching Assistant  | Directed a students group research project for the Marine Venoms and Defense System Course (IUI, Eilat) |

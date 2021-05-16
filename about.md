@@ -27,7 +27,7 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 |---| Research topic | Influence of environmental stressors on the physiology, morphology and gene expression of corals, from juvenile to adult stages |
 | 2019 | MSc | Marine Biology, University of Bologna, Italy |
 |---| Thesis | Transcriptional profiles inferring thermal stress responses of the coral _Oculina patagonica_ compared to other Mediterranean coral species |
-| 2017 - 2018 | Study Abroad Program | UCSB, Santa Barabara, California, USA |
+| 2017-2018 | Study Abroad Program | UCSB, Santa Barabara, California, USA |
 | 2016 | BSc | Biological Sciences, University of Bologna, Italy |
 |---| Thesis | Cold Water Corals Habitat Mapping |
 | 2013 | High School Diploma | Archimede High School, Bologna, Italy |
@@ -74,6 +74,7 @@ Other
 ### Teaching activities
 
  | Date  | Position | Description |
+ 
  | 2021_ |  Teaching Assistant  | Directed a students group research project for the Marine Photosynthesis Course (IUI, Eilat) |
  | 2020_ |  Teaching Assistant  | Directed a students group research project for the Biology of Corals Course (IUI, Eilat) |
  | 2019_ |  Teaching Assistant  | Directed a students group research project for the Marine Venoms and Defense System Course (IUI, Eilat) |

@@ -23,7 +23,7 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 
 | Date | Degree | School |
 |--|--|--|
-| 2019 - current | PhD | Marine Biology, University of Haifa, Israel |
+| 2019-current | PhD | Marine Biology, University of Haifa, Israel |
 |---| Research topic | Influence of environmental stressors on the physiology, morphology and gene expression of corals, from juvenile to adult stages |
 | 2019 | MSc | Marine Biology, University of Bologna, Italy |
 |---| Thesis | Transcriptional profiles inferring thermal stress responses of the coral _Oculina patagonica_ compared to other Mediterranean coral species |
@@ -74,7 +74,6 @@ Other
 ### Teaching activities
 
  | Date  | Position | Description |
- 
  | 2021_ |  Teaching Assistant  | Directed a students group research project for the Marine Photosynthesis Course (IUI, Eilat) |
  | 2020_ |  Teaching Assistant  | Directed a students group research project for the Biology of Corals Course (IUI, Eilat) |
  | 2019_ |  Teaching Assistant  | Directed a students group research project for the Marine Venoms and Defense System Course (IUI, Eilat) |

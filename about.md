@@ -13,6 +13,11 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 
 [Mass Lab Website](https://sites.google.com/marsci.haifa.ac.il/masslab/home?authuser=0/)  
 
+### Other platforms you can find me on
+
+- Publications: [Research gate](https://www.researchgate.net/profile/Federica-Scucchia), [Semantic scholar](https://www.semanticscholar.org/author/Federica-Scucchia/1490705230) and [Loop](https://loop.frontiersin.org/people/846117/overview)
+- Peer review: [Publons](https://publons.com/researcher/4325610/federica-scucchia/)
+
 ### Contact me
 
 - [federica.scucchia@mail.huji.ac.il](mailto:federica.scucchia@mail.huji.ac.il)

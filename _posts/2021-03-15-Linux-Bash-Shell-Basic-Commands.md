@@ -206,12 +206,6 @@ Patterns can be combined using the && symbol (for and) so a line is printed only
 In addition to strings, awk can also filter on numeric values. For example:
 - `awk -F”\t” ‘$1>1’ Diamonds_fix.txt`  this will print all lines in which the first column has a value greater than 1. 
 
-How to run **R** in Hive:
-- `conda activate R_setting6`
-
-followed by
-- `srun --pty -p hiveunlim,hive7d,hive1d R`
-
 Shared softwares in Hive are located in /data/apps and working with the help of module utility LMOD (which allows to load and unload needed software and versions of software), you can read about module [here](https://lmod.readthedocs.io/en/latest/010_user.html).
 
 Use command `module avail` to see what software is installed already in public place.

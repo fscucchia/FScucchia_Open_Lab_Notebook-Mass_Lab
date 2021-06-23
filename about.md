@@ -71,9 +71,11 @@ Other
 
 ### Publications
 
-1. **Scucchia, F.**, Nativ, H., Neder, M., Goodbody-Gringley, G., & Mass, T. (2020). Physiological characteristics of _Stylophora pistillata_ larvae across a depth gradient. Frontiers in Marine Science, 7, 13.
+1. **Scucchia, F.**, Nativ, H., Neder, M., Goodbody-Gringley, G., & Mass, T. (2020). Physiological characteristics of _Stylophora pistillata_ larvae across a depth gradient. Frontiers in Marine Science.
 
 2. Martinez, S., Kolodny, Y., Shemesh, E., **Scucchia, F.**, Nevo, R., Levin-Zaidman, S., Paltiel, Y., Keren, N., Tchernov, D. & Mass, T. (2020). Energy sources of the depth-generalist mixotrophic coral _Stylophora pistillata_. Frontiers in Marine Science.
+
+3. **Scucchia, F.**,  Malik, A., Zaslansky, P., Putnam, H. M., & Mass, T. (2021). Combined responses of primary coral polyps and their algal endosymbionts to decreasing seawater pH. Proceedings of the Royal Society B.
 
 
 ### Teaching activities

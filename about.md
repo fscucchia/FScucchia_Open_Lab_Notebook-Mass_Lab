@@ -96,4 +96,6 @@ Other
 - 2021 - **F. Scucchia**, A. Malik, P. Zaslansky, H. M. Putnam, T. Mass_Response of _Stylophora pistillata_ primary polyps to decreasing seawater pH. PSB 2021: Bioinformatics of Corals Workshop.
 
 #### Awards
-- Overseas Study Program Award, funding covering one year of study at UCSB, Santa Barabara, California, USA
+- 2021 - 2nd place poster award, Marine Biology Departmental symposium, Haifa University.
+- 2020 - 1st place lecture award, Marine Biology Departmental symposium, Haifa University. 
+- 2017 - Overseas Study Program Award, funding covering one year of study at UCSB, Santa Barabara, California, USA.

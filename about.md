@@ -29,10 +29,10 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 | Date | Degree | School |
 |--|--|--|
 | 2019-current | PhD | Marine Biology, University of Haifa, Israel |
-|---| Research topic | Influence of environmental stressors on the physiology, morphology and gene expression of corals, from juvenile to adult stages |
+|---| Topic of research | Influence of environmental stressors on the physiology, morphology and gene expression of corals, from juvenile to adult stages |
 | 2019 | MSc | Marine Biology, University of Bologna, Italy |
 |---| Thesis | Transcriptional profiles inferring thermal stress responses of the coral _Oculina patagonica_ compared to other Mediterranean coral species |
-| 2017-2018 | Study Abroad Program | UCSB, Santa Barabara, California, USA |
+| 2017-2018 | Study Abroad Program | One year at the University of Santa Barbara (California) as part of the Master degree program |
 | 2016 | BSc | Biological Sciences, University of Bologna, Italy |
 |---| Thesis | Cold Water Corals Habitat Mapping |
 | 2013 | High School Diploma | Archimede High School, Bologna, Italy |
@@ -78,17 +78,18 @@ Other
 3. **Scucchia, F.**,  Malik, A., Zaslansky, P., Putnam, H. M., & Mass, T. (2021). Combined responses of primary coral polyps and their algal endosymbionts to decreasing seawater pH. Proceedings of the Royal Society B.
 
 
+### Workshop
+
+- 2018 - Three weeks visit to the Coral Biomineralization and Physiology Lab of Tali Mass at the Leon Charney School of Marine Sciences (Haifa), where I conducted a heat-shock experiment to study the thermal stress response of corals, as part of my Master thesis work.
+
+
 ### Teaching activities
 
- | Date  | Position | Description 
- | 2021_ |  Teaching Assistant  | Directed a students group research project for the Marine Photosynthesis Course (IUI, Eilat) |
- | 2020_ |  Teaching Assistant  | Directed a students group research project for the Biology of Corals Course (IUI, Eilat) |
- | 2019_ |  Teaching Assistant  | Directed a students group research project for the Marine Venoms and Defense System Course (IUI, Eilat) |
+| Date  | Position | Description 
+| 2021_ |  Teaching Assistant  | Directed a students group research project for the Marine Photosynthesis Course (IUI, Eilat) |
+| 2020_ |  Teaching Assistant  | Directed a students group research project for the Biology of Corals Course (IUI, Eilat) |
+| 2019_ |  Teaching Assistant  | Directed a students group research project for the Marine Venoms and Defense System Course (IUI, Eilat) |
 
-### Certifications
-
-- Master Diver, SSI
-- Scientific Diver, AAUS
 
 ### Presentations and Awards
 
@@ -99,3 +100,9 @@ Other
 - 2021 - 2nd place poster award, Marine Biology Departmental symposium, Haifa University.
 - 2020 - 1st place lecture award, Marine Biology Departmental symposium, Haifa University. 
 - 2017 - Overseas Study Program Award, funding covering one year of study at UCSB, Santa Barabara, California, USA.
+
+
+### Certifications
+
+- Master Diver, SSI
+- Scientific Diver, AAUS

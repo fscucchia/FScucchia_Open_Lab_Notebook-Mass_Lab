@@ -28,22 +28,13 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 
 | Date | Degree | School |
 |--|--|--|
-
 | 2019-current | PhD | Marine Biology, University of Haifa, Israel |
 |---| Topic of research | Influence of environmental stressors on the physiology, morphology and gene expression of corals, from juvenile to adult stages |
-|--|--|--|
-
 | 2019 | MSc | Marine Biology, University of Bologna, Italy |
 |---| Thesis | Transcriptional profiles inferring thermal stress responses of the coral _Oculina patagonica_ compared to other Mediterranean coral species |
-|--|--|--|
-
 | 2017-2018 | Study Abroad Program | One year at the University of Santa Barbara (California) as part of the Master degree program |
-|--|--|--|
-
 | 2016 | BSc | Biological Sciences, University of Bologna, Italy |
 |---| Thesis | Cold Water Corals Habitat Mapping |
-|--|--|--|
-
 | 2013 | High School Diploma | Archimede High School, Bologna, Italy |
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reconstruction of x-ray tomography data_synchrotron radiation imaging (beamline) of coral primary polyps' skeletons
+title: Reconstruction of x-ray tomography data, coral primary polyps' skeletons
 category: [ Tomography, Synchrotron ]
 tags: [ x-ray, Beamline, Imaging, Stylophora, Skeleton, Primary polyps ]
 ---
@@ -20,7 +20,7 @@ Tools used for data reconstruction and visualization: [TomoTools](https://github
 7. Open the dark background files with Fiji. The background images size needs to match the scans size.
 8. Go to 'Image > Stack > Z Project' and select "Average Intensity" as projection type. 
 9. Then go to 'Process > Filters > Gaussian Blur'
-9. Finally, save the dark background image as FITS file.
+10. Finally, save the dark background image as FITS file.
 
 ### Normalization of radiograms
 
@@ -35,7 +35,7 @@ Radiograms have to be background-corrected by normalization with empty beam (fla
 ![octave]({{site.baseurl}}/images/octave_2.png "octave")
 
 6. Select a ROI in the upper area of the scan (without the sample), then select a ROI in the lower area of the scan (without the sample), finally select a continuous ROI from upper to lower area (can include the sample).
-5. Convert the resulting edf fles to 16 bit TIFF files.
+7. Convert the resulting edf fles to 16 bit TIFF files.
 
 ### Reconstruction of cross-section images
 

@@ -43,7 +43,7 @@ NRecon is used to reconstruct cross-section images from X-ray projections.
 
 1. Load 16 bit TIFF files of the first scan. Select region of interest (where the sample is, the area needs to be of the same size for all scans) in the "Start" menu on the right of the screen and click on "Preview".
 
-![area]({{site.baseurl}}/images/file_tuning.jpg "area")
+![area]({{site.baseurl}}/images/fine_tuning.jpg "area")
 
 2. Go to the "Output" menu and select a range of 0-30 (this range can change depending on the sample). Select the exact same range for all samples to allow for comparisons. 
 

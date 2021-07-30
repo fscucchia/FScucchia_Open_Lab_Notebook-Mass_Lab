@@ -72,11 +72,15 @@ Other
 
 ### Publications
 
-1. **Scucchia, F.**, Nativ, H., Neder, M., Goodbody-Gringley, G., & Mass, T. (2020). Physiological characteristics of _Stylophora pistillata_ larvae across a depth gradient. Frontiers in Marine Science.
+1. **Scucchia, F.**, Nativ, H., Neder, M., Goodbody-Gringley, G., & Mass, T. (2020). Physiological characteristics of _Stylophora pistillata_ larvae across a depth gradient. _Frontiers in Marine Science_.
 
-2. Martinez, S., Kolodny, Y., Shemesh, E., **Scucchia, F.**, Nevo, R., Levin-Zaidman, S., Paltiel, Y., Keren, N., Tchernov, D. & Mass, T. (2020). Energy sources of the depth-generalist mixotrophic coral _Stylophora pistillata_. Frontiers in Marine Science.
+2. Martinez, S., Kolodny, Y., Shemesh, E., **Scucchia, F.**, Nevo, R., Levin-Zaidman, S., Paltiel, Y., Keren, N., Tchernov, D. & Mass, T. (2020). Energy sources of the depth-generalist mixotrophic coral _Stylophora pistillata_. _Frontiers in Marine Science_.
 
-3. **Scucchia, F.**,  Malik, A., Zaslansky, P., Putnam, H. M., & Mass, T. (2021). Combined responses of primary coral polyps and their algal endosymbionts to decreasing seawater pH. Proceedings of the Royal Society B.
+3. **Scucchia, F.**,  Malik, A., Zaslansky, P., Putnam, H. M., & Mass, T. (2021). Combined responses of primary coral polyps and their algal endosymbionts to decreasing seawater pH. _Proceedings of the Royal Society B_.
+
+4. Nativ, H., **Scucchia, F.**, Martinez, S., Einbinder, S., Chequer, A., Goodbody-Gringley, G., & Mass, T. (2021). _In situ_ Estimation of Coral Recruitment Patterns From Shallow to Mesophotic Reefs Using an Optimized Fluorescence Imaging System. _Frontiers in Marine Science_.
+
+5. **Scucchia, F.**,  Malik, A., Putnam, H. M., & Mass, T. (2021). Genetic and physiological traits conferring tolerance to ocean acidification in mesophotic corals. _Global Change Biology_. 
 
 
 ### Workshop

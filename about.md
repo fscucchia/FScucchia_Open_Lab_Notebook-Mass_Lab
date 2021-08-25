@@ -85,28 +85,29 @@ Other
 
 ### Workshop
 
-- 2021 - Two weeks visit to the Charité-Universitätsmedizin (Berlin) in the lab of Dr. Paul Zaslansky, where I learnt how to process and reconstruct x-ray tomography data acquired with synchrotron radiation (beamline) of coral primary polyps' skeletons.
-
 - 2018 - Three weeks visit to the Coral Biomineralization and Physiology Lab of Tali Mass at the Leon Charney School of Marine Sciences (Haifa), where I conducted a heat-shock experiment to study the thermal stress response of corals, as part of my Master thesis work.
+
+- 2021 - Two weeks visit to the Charité-Universitätsmedizin (Berlin) in the lab of Dr. Paul Zaslansky, where I learnt how to process and reconstruct x-ray tomography data acquired with synchrotron radiation (beamline) of coral primary polyps' skeletons.
 
 
 ### Teaching activities
 
 | Date  | Position | Description 
-| 2021_ |  Teaching Assistant  | Directed a students group research project for the Marine Photosynthesis Course (IUI, Eilat) |
-| 2020_ |  Teaching Assistant  | Directed a students group research project for the Biology of Corals Course (IUI, Eilat) |
 | 2019_ |  Teaching Assistant  | Directed a students group research project for the Marine Venoms and Defense System Course (IUI, Eilat) |
+| 2020_ |  Teaching Assistant  | Directed a students group research project for the Biology of Corals Course (IUI, Eilat) |
+| 2021_ |  Teaching Assistant  | Directed a students group research project for the Marine Photosynthesis Course (IUI, Eilat) |
 
 
 ### Presentations and Awards
 
 #### Talks
 - 2021 - **F. Scucchia**, A. Malik, P. Zaslansky, H. M. Putnam, T. Mass_Response of _Stylophora pistillata_ primary polyps to decreasing seawater pH. PSB 2021: Bioinformatics of Corals Workshop.
+- 2021 - **F. Scucchia**, A. Malik, P. Zaslansky, H. M. Putnam, T. Mass_Insights into the biomineralization response to ocean acidification in newly settled recruits of the scleractinian coral _Stylophora pistillata_. 16th International Symposium on Biomineralization (BIOMIN XVI).
 
 #### Awards
-- 2021 - 2nd place poster award, Marine Biology Departmental symposium, Haifa University.
-- 2020 - 1st place lecture award, Marine Biology Departmental symposium, Haifa University. 
 - 2017 - Overseas Study Program Award, funding covering one year of study at UCSB, Santa Barabara, California, USA.
+- 2020 - 1st place lecture award, Marine Biology Departmental symposium, Haifa University. 
+- 2021 - 2nd place poster award, Marine Biology Departmental symposium, Haifa University.
 
 
 ### Certifications

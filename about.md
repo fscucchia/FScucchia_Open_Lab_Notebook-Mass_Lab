@@ -82,6 +82,8 @@ Other
 
 5. **Scucchia, F.**,  Malik, A., Putnam, H. M., & Mass, T. (2021). Genetic and physiological traits conferring tolerance to ocean acidification in mesophotic corals. _Global Change Biology_. 
 
+6. Goodbody-Gringley, G., **Scucchia, F.**, Ju, R., Chequer, A., S., Einbinder, Martinez, S., Nativ, H., & Mass, T. (2021). Plasticity of _Porites astreoides_ Early Life History Stages Suggests Mesophotic Coral Ecosystems Act as Refugia in Bermuda. _Frontiers in Marine Science_.
+
 
 ### Workshop
 

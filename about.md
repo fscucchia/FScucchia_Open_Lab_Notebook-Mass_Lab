@@ -52,7 +52,7 @@ Microscopy
 - Labeling of coral primary polyps with Calcein Blue and calcein fluorescence quantification with inverted fluorescent microscope
 - Imaging and analysis of coral primary polyps and adults skeletons with scanning electron microscope (SEM)
 - Analysis of micro-CT scan images and quantification of skeletal thickness (coral primary polyps)
-- Processing of synchrotron x-ray tomography data. Tools used: TomoTools, NRecon, CTVox.
+- Processing of synchrotron x-ray tomography data. Tools used: TomoTools, NRecon, CTVox, Dragonfly.
 
 Physiology
 - Coral protein concentration (Bradford and BCA assays), symbiotic algae count (hemocytometer), chlorophyll concentration (acetone method)
@@ -89,7 +89,7 @@ Other
 
 - 2018 - Three weeks visit to the Coral Biomineralization and Physiology Lab of Tali Mass at the Leon Charney School of Marine Sciences (Haifa), where I conducted a heat-shock experiment to study the thermal stress response of corals, as part of my Master thesis work.
 
-- 2021 - Two weeks visit to the Charité-Universitätsmedizin (Berlin) in the lab of Dr. Paul Zaslansky, where I learnt how to process and reconstruct x-ray tomography data acquired with synchrotron radiation (beamline) of coral primary polyps' skeletons.
+- 2021 - Five weeks visit to the Charité-Universitätsmedizin (Berlin) in the lab of Dr. Paul Zaslansky, where I learnt how to process and reconstruct x-ray tomography data acquired with synchrotron radiation (beamline) of coral primary polyps' skeletons.
 
 
 ### Teaching activities

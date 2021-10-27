@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Reconstruction of x-ray tomography data, coral primary polyps' skeletons
+title: Reconstruction of X-ray µCT data, coral recruits' skeleton
 category: [ Tomography, Synchrotron ]
-tags: [ x-ray, Beamline, Imaging, Stylophora, Skeleton, Primary polyps ]
+tags: [ X-ray, Beamline, Imaging, Stylophora, Skeleton, Primary polyps ]
 ---
 
-Processing and reconstruction of x-ray tomography data acquired with synchrotron radiation ([BAMline](https://www.helmholtz-berlin.de/pubbin/igama_output?modus=einzel&sprache=en&gid=1658&typoid=)) of coral primary polyps' skeletons, during my visit to the Charité-Universitätsmedizin (Berlin) in the lab of Dr. Paul Zaslansky.
+Pipeline for processing and reconstruction of X-ray tomography data of coral recruits' skeleton, acquired with synchrotron radiation at ([BAMline](https://www.helmholtz-berlin.de/pubbin/igama_output?modus=einzel&sprache=en&gid=1658&typoid=)), the imaging beamline at BESSY (HZB - Helmholtz-Zentrum Berlin, Germany). 
+Data preprocessing and reconstruction were performed using the in-house Octave-based reconstruction pipeline in the lab of Dr. Paul Zaslansky at Charité, Universitätsmedizin Berlin. 
 
-Tools used for data reconstruction and visualization: [TomoTools](https://github.com/RSBradley/TomoTools), [NRecon](https://umanitoba.ca/faculties/health_sciences/medicine/units/cacs/sam/media/NReconUserManual.pdf), [CTVox](https://www.blue-scientific.com/ctvox-micro-ct-volume-rendering-software/), [Fiji](https://imagej.net/software/fiji/).
+Tools used for data reconstruction and visualization: [TomoTools](https://github.com/RSBradley/TomoTools), [NRecon](https://umanitoba.ca/faculties/health_sciences/medicine/units/cacs/sam/media/NReconUserManual.pdf), [Dragonfly](https://www.theobjects.com/index.html), [Fiji](https://imagej.net/software/fiji/).
 
 ### Preparing the scans, flat fields and background images
 
@@ -70,10 +71,9 @@ NRecon is used to reconstruct cross-section images from X-ray projections.
 
 ### Data 3D visualization
 
-- Open the PNG files of the merged scans with CTVox.
-- Adjust the 'Opacity', 'Luminosity' and RGB colors from the drop-down menu. CTVox can be used to produce images of the 3D sample (as a whole), sections of the 3D sample, movies. 
+- Open the PNG files of the merged scans with [Dragonfly](https://www.theobjects.com/index.html), which can be used to produce 3D images of the sample (as a whole), sections of the 3D sample, movies. 
 
-To measure the thickness of the skeleton, follow [this](https://fscucchia.github.io/FScucchia_Lab_Notebook-Mass_Lab/Measure-3D-thickness-of-coral-skeleton-with-Fiji/) protocol.
+- To measure the thickness of the skeleton using Fiji, follow [this](https://fscucchia.github.io/FScucchia_Lab_Notebook-Mass_Lab/Measure-3D-thickness-of-coral-skeleton-with-Fiji/) protocol.
 
 
 

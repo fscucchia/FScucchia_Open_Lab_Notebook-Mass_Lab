@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reconstruction of X-ray µCT data, coral recruits' skeleton
+title: Reconstruction of X-ray µCT data of coral recruits' skeleton
 category: [ Tomography, Synchrotron ]
 tags: [ X-ray, Beamline, Imaging, Stylophora, Skeleton, Primary polyps ]
 ---

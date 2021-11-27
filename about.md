@@ -85,7 +85,11 @@ Other
 6. Goodbody-Gringley, G., **Scucchia, F.**, Ju, R., Chequer, A., S., Einbinder, Martinez, S., Nativ, H., & Mass, T. (2021). Plasticity of _Porites astreoides_ Early Life History Stages Suggests Mesophotic Coral Ecosystems Act as Refugia in Bermuda. _Frontiers in Marine Science_.
 
 
-### Workshop
+### Workshop and work experiences
+
+- 2016 - Two weeks oceanographic campaign for the CNR ISMAR Bologna (Italy). Habitat mapping of Cold Water Corals in the Bari Canyon for the EU Marine Strategy Framework Directive. Main activities: bathymetric data analysis and processing (ArcGIS), ROV videos analysis (ADELIE), mapping of cold water corals habitats (ArcGIS).
+
+- 2018 - Two weeks internship for the SBC LTER (Santa Barbara Coastal Long Term Ecological Research Project). Main activities: fish and kelp surveys data analysis, lab processing of kelp tissue.
 
 - 2018 - Three weeks visit to the Coral Biomineralization and Physiology Lab of Tali Mass at the Leon Charney School of Marine Sciences (Haifa), where I conducted a heat-shock experiment to study the thermal stress response of corals, as part of my Master thesis work.
 

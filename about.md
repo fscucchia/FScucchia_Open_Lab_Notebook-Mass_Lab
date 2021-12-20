@@ -68,6 +68,7 @@ Computational
 Other
 - Collection of coral samples (larvae and adults) from the field (scuba diving)
 - Maintenance and care of coral fragments in outdoor water table systems
+- Lab social media manager and Lab website manager
 
 
 ### Publications

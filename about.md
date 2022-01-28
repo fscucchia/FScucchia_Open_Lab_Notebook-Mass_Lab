@@ -112,10 +112,11 @@ Other
 - 2021 - **F. Scucchia**, A. Malik, P. Zaslansky, H. M. Putnam, T. Mass_ Insights into the biomineralization response to ocean acidification in newly settled recruits of the scleractinian coral _Stylophora pistillata_. 16th International Symposium on Biomineralization (BIOMIN XVI).
 - 2021 - _Invited talk_ - **F. Scucchia**, P. Zaslansky, T. Mass_ Insights into the biomineralization response to ocean acidification in newly settled coral recruits. BESSY Science Seminar Series 2021, HZB (Helmholtz-Zentrum Berlin).
 
-#### Awards
+#### Grants and Awards
 - 2017 - Overseas Study Program Award, funding covering one year of study at UCSB, Santa Barabara, California, USA.
 - 2020 - 1st place lecture award, Marine Biology Departmental symposium, Haifa University. 
 - 2021 - 2nd place poster award, Marine Biology Departmental symposium, Haifa University.
+- 2022 - Israel Data Science Initiative (IDSI) Cloud Computing grant (US $2000)
 
 
 ### Certifications

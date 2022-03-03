@@ -96,6 +96,8 @@ Other
 
 - 2021 - Five weeks visit to the Charité-Universitätsmedizin (Berlin) in the lab of Dr. Paul Zaslansky, where I learnt how to process and reconstruct x-ray tomography data acquired with synchrotron radiation (beamline) of coral primary polyps' skeletons.
 
+- 2022 - One week at the ESRF (European Synchrotron Radiation Facility) in Grenoble (France) to scan coral spats samples at the ID19 beamline and obtain high-resolution tomography data.
+
 
 ### Teaching activities
 

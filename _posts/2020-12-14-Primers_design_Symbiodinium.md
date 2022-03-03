@@ -25,7 +25,7 @@ I used both [idtdna](https://eu.idtdna.com/pages) and [NCBI Primer-blast](https:
 To find the best primers, I followed the indication from [TTB](https://toptipbio.com/real-time-pcr-primer-blast/). Briefly:
 
 - PCR product size: 70 – 200 base pairs.
-- Primer length: 18 – 22 nucleotides (optimal: 20).
+- Primer length: 18 – 22 nucleotides (optimal: 20)
 - GC% content: 50 – 60%. Primers should have similar GC%.
 - Tm: 59 – 65 °C (optimal: 62 °C). Primers should have similar Tm that are within 5 °C of each other.
 - Avoid nucleotide repeats: Avoid repeats of 4 or more adjacent repeats (e.g. GTTTT) and/or dinucleotide repeats (e.g. GCGCGCGC).

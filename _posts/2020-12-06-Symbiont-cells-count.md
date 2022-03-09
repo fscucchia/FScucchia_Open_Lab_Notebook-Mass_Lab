@@ -12,7 +12,7 @@ These instructions cover two ways to get algal cell counts using [Fiji](https://
 ## Manual Cell Counting
 - Open the image you want to count with Fiji and go to `Plugins > Analyze > Cell counter`. A new counter window will open.
 - To begin counting, click one 'Initialize' and on 'Type 1' in the counter window. Then click directly on a algal cell. A dot and a number will appear on the cell. If you click on an object by mistake, you can undo it by selecting 'Delete'. 
-- When you are finished counting, click the 'Results button'. A new window will appear with the total number of cell counted. Use `Results > File > Save as` to save your counts as .csv formatted files. Alternatively, the results log can be copied and pasted on an Excel spreadsheet.
+- When you are finished counting, click the 'Results button'. A new window will appear with the total number of cell counted. Use `Results > File > Save as` to save your counts as .csv formatted files. Alternatively, the results log can be copied and pasted on an Excel spreadsheet
 
 ![Manual]({{site.baseurl}}/images/Manual_count.jpg "Manual")
 

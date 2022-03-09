@@ -85,6 +85,8 @@ Other
 
 6. Goodbody-Gringley, G., **Scucchia, F.**, Ju, R., Chequer, A., S., Einbinder, Martinez, S., Nativ, H., & Mass, T. (2021). Plasticity of _Porites astreoides_ Early Life History Stages Suggests Mesophotic Coral Ecosystems Act as Refugia in Bermuda. _Frontiers in Marine Science_.
 
+7. **Scucchia, F.**, Sauer, K., Zaslansky, P., & Mass, T. (2022). Artificial Intelligence as a Tool to Study the 3D Skeletal Architecture in Newly Settled Coral Recruits: Insights into the Effects of Ocean Acidification on Coral Biomineralization. _Journal of Marine Science and Engineering_.
+
 
 ### Workshop and work experiences
 

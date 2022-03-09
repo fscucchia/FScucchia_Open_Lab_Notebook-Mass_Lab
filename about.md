@@ -15,7 +15,7 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 
 ### Other platforms you can find me on
 
-- Publications: [Research gate](https://www.researchgate.net/profile/Federica-Scucchia), [Semantic scholar](https://www.semanticscholar.org/author/Federica-Scucchia/2114524320) and [Loop](https://loop.frontiersin.org/people/846117/overview)
+- Publications: [Research gate](https://www.researchgate.net/profile/Federica-Scucchia), [Google Scholar](https://scholar.google.it/citations?user=DPVEIKYAAAAJ&hl=en) and [Loop](https://loop.frontiersin.org/people/846117/overview)
 - Peer review: [Publons](https://publons.com/researcher/4325610/federica-scucchia/)
 
 ### Contact me

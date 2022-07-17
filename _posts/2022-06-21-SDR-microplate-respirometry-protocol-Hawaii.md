@@ -1,17 +1,16 @@
 ---
 layout: post
-title: SDR microplate respirometry protocol for coral spats
+title: SDR microplate respirometry protocol for coral planulae
 category: [Respiration, Photosynthesis, Protocol ]
-tags: [ Coral, Spats,Physiology, pH, Temperature, Pocillopora acuta, Montipora capitata ]
+tags: [ Coral, Planulae, Physiology, pH, Temperature,Montipora capitata ]
 ---
 
-This protocol details the step-by-step use of the PreSens/Loligo Microplate respiration system for measuring respiration and photosynthesis of coral spats.  
+This protocol details the step-by-step use of the PreSens/Loligo Microplate respiration system for measuring respiration and photosynthesis of coral planulae.  
 
-[Original protocol](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/Mcapitata-Early-Life-History-Respirometry-Protocol/) written by Ariana Huffmyer and modified by [Jill Ashey](https://github.com/JillAshey) and me during our time at the Hawaiʻi Institute of Marine Biology in June-July 2022, conducting temperature and pH stress experiments with larvae and spats of the corals _Pocillopora acuta_ and _Montipora capitata_.
+[Original protocol](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/Mcapitata-Early-Life-History-Respirometry-Protocol/) written by Ariana Huffmyer and modified by [Jill Ashey](https://github.com/JillAshey) and me during our time at the Hawaiʻi Institute of Marine Biology in June-July 2022, conducting temperature and pH stress experiments with planulae and spats of the corals _Pocillopora acuta_ and _Montipora capitata_.
 
 
 ### Prepare equipment  
-
 -	[PreSens Oxy-10 Sensor Dish Reader (SDR)](https://www.presens.de/products/detail/sdr-sensordish-reader-basic-set) in combination with [Loligo 24-well microplate](https://loligosystems.com/24-well-glass-microplate-80-ul) (80 µL each well)
 -	Glass coverslips
 -	PreSens software downloaded with calibrations entered as provided by manufacturer
@@ -24,14 +23,12 @@ This protocol details the step-by-step use of the PreSens/Loligo Microplate resp
 -	PC computer
 -	Kimwipes
 
-### Prepare spats
-
--	Take spats out of the experimental system and rinse them in filtered seawater to clean any debris off of them 
--	Based on previous respirometry trials by Ariana Huffmyer, 5 _P. acuta_ larvae per well or 6 _M. capitata_ larvae per well will give good signals. In my case I worked with spats, and put 3 _P. acuta_ spats per well and 4 _M. capitata_ spats per well
--	Use a disposable pipette to transfer spats into a 6 or 24 well plate and separate them out to easily get the desired number of spats 
+### Prepare planulae
+-	Take planulae out of the experimental system and rinse them in filtered seawater to clean any debris off of them 
+-	Based on previous respirometry trials by Ariana Huffmyer, 5 _P. acuta_ larvae per well or 6 _M. capitata_ larvae per well will give good signals
+-	Use a disposable pipette to transfer planulae into a 6 or 24 well plate and separate them out to easily get the desired number of planulae 
 
 ### Calibrate oxygen spots 
-
 -	Start by hydrating sensors in the wells ~20 minutes before using the plate with filtered seawater
 -	After hydration, fill the wells with 100% air saturated filtered seawater, which was aerated for about 20-30 minutes with the bubbler 
 -	Place the 24 well plate on the SDR inside the incubator ![incubator_resp](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/images/incubator_resp.jpg?raw=true "incubator_resp") ![incubator_plate](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/images/incubator_plate.jpg?raw=true "incubator_plate")
@@ -49,13 +46,13 @@ This protocol details the step-by-step use of the PreSens/Loligo Microplate resp
 -	Perform this calibration at the start of each measuring day  
 
 ### Prepare plates and metadata  
--	Before preparing spats, turn on the incubators and lights to the desired temperature and level to allow the incubator to come to temperature. Set the lights at 30% intensity on all channels with 0% on the UV channel. Measure the light at the level of the SDR plate and record 
+-	Before preparing planulae, turn on the incubators and lights to the desired temperature and level to allow the incubator to come to temperature. Set the lights at 30% intensity on all channels with 0% on the UV channel. Measure the light at the level of the SDR plate and record 
 -	Place a cover over the doors of the incubator to block ambient light 
 -	*Note*: Only use kimwipes and be very gentle and careful with the plates. Be careful not to touch or scratch the oxygen sensor spots in the bottom of each well 
 -	Before starting trials, set up a plate map and a metadata file   
 -	Include 2-3 wells to serve as blanks, loaded with filtered seawater. Record the location of blanks on the plate map and record NA on the plate map for any wells that are missing sensors. Change the location of blanks in each run 
--	Well sensors need to be hydrated 20 minutes before loading the spats as specified above  
--	Put the spats in the wells and add a drop of filtered seawater to fill the well so that a convex meniscus forms and the water tension holds a tiny bulge slightly above the top of the plate. Ensure the plate is very dry to allow for this tension to form. If the plate is too wet a bubble will not form. If you need to refill or reset a well make sure to dry it with kimwipes. 
+-	Well sensors need to be hydrated 20 minutes before loading the planulae as specified above  
+-	Put the planulae in the wells and add a drop of filtered seawater to fill the well so that a convex meniscus forms and the water tension holds a tiny bulge slightly above the top of the plate. Ensure the plate is very dry to allow for this tension to form. If the plate is too wet a bubble will not form. If you need to refill or reset a well make sure to dry it with kimwipes. 
 -	Check the well for bubbles and pipette up and down gently to remove if needed. 
 -	Carefully drop a micro coverslip over each well to seal it. It’s best to drop the coverslip gently, and at an angle to the well plate. 
 -	Check to make sure there are no bubbles in the wells. 
@@ -77,7 +74,7 @@ This protocol details the step-by-step use of the PreSens/Loligo Microplate resp
 -	Upload data sheets to the google drive or save onto a USB.  
 
 ### Clean equipment  
--	Use a glass pipette to remove the water and spats from the wells GENTLY. 
+-	Use a glass pipette to remove the water and planulae from the wells GENTLY. 
 -	Rinse the microplate with milliQ water and dry using a kimwipe. Roll the kimwipe up and gently dry each individual well being careful not to damage the spot. 
 -	Because the oxygen spots are sensitive to light, put it in the bubble wrap and put it in the dark bag. Open the bag slightly so the plate can fully dry. 
 

@@ -61,7 +61,7 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 - 2021 - **F. Scucchia**, A. Malik, P. Zaslansky, H. M. Putnam, T. Mass_ Response of _Stylophora pistillata_ primary polyps to decreasing seawater pH. PSB 2021: Bioinformatics of Corals Workshop.
 - 2021 - **F. Scucchia**, A. Malik, P. Zaslansky, H. M. Putnam, T. Mass_ Insights into the biomineralization response to ocean acidification in newly settled recruits of the scleractinian coral _Stylophora pistillata_. 16th International Symposium on Biomineralization (BIOMIN XVI).
 - 2021 - _Invited talk_ - **F. Scucchia**, P. Zaslansky, T. Mass_ Insights into the biomineralization response to ocean acidification in newly settled coral recruits. BESSY Science Seminar Series 2021, HZB (Helmholtz-Zentrum Berlin).
-- 2022 - _Invited talk_ - **F. Scucchia**, K. Sauer, P. Zaslansky, T. Mass_ Artificial intelligence as a tool to study the 3D skeletal architec-ture in newly settled coral recruits: insights into the effects of Ocean Acidification on coral biomineralization. BGoldschmidt Conference 2022, Honolulu, Hawaiʻi, USA. 
+- 2022 - _Invited talk_ - **F. Scucchia**, K. Sauer, P. Zaslansky, T. Mass_ Artificial intelligence as a tool to study the 3D skeletal architecture in newly settled coral recruits: insights into the effects of Ocean Acidification on coral biomineralization. Goldschmidt Conference 2022, Honolulu, Hawaiʻi, USA. 
 
 #### Grants and Awards
 - 2017 - Overseas Study Program Award, funding covering one year of study at UCSB, Santa Barabara, California, USA.

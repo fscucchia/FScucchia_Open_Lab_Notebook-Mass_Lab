@@ -53,8 +53,10 @@ This protocol details the step-by-step use of the PreSens/Loligo Microplate resp
 -	Include 2-3 wells to serve as blanks, loaded with filtered seawater. Record the location of blanks on the plate map and record NA on the plate map for any wells that are missing sensors. Change the location of blanks in each run 
 -	Well sensors need to be hydrated 20 minutes before loading the planulae as specified above  
 -	Put the planulae in the wells and add a drop of filtered seawater to fill the well so that a convex meniscus forms and the water tension holds a tiny bulge slightly above the top of the plate. Ensure the plate is very dry to allow for this tension to form. If the plate is too wet a bubble will not form. If you need to refill or reset a well make sure to dry it with kimwipes. 
+![plate1](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/images/incubator_resp.jpg?raw=true "plate1")
 -	Check the well for bubbles and pipette up and down gently to remove if needed. 
 -	Carefully drop a micro coverslip over each well to seal it. It’s best to drop the coverslip gently, and at an angle to the well plate. 
+![plate2](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/images/incubator_resp.jpg?raw=true "plate2")
 -	Check to make sure there are no bubbles in the wells. 
 -	Put the plate on the SDR in the incubator. Make sure the oxygen sensors are right on top of the readers on the SDR. Ensure that A1 is aligned between the plate and the SDR.
 -	Check the temperature in the incubator with the digital thermometer regularly and launch hobo loggers to log temperature during the run.  

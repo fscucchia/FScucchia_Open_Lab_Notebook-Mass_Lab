@@ -63,6 +63,7 @@ Here I used the virtual outlets to control the temperature and pH in my treatmen
 - Move down the virtual outlet tiles.
 - Click the settings button next to outlet. Change "icon" to up/down arrows and "control type" to advanced.
 - This is the script that I put in the configuration section of each stage for the temperature system:
+
 ```
 tM_sq1_time1
 Set OFF
@@ -179,6 +180,7 @@ If Time 16:01 to 00:59 Then OFF
 ```
 
 - This is the script that I put in the configuration section of each stage for the temperature system:
+
 ```
 pH_m_time1
 Set OFF

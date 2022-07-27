@@ -34,12 +34,12 @@ High: PM1_4
 - Once PMs are all active, go to the main Apex page. Click 'new tiles' (icon looks like a lock) in the top right hand corner.
 - Move down the PM temperature and pH probe tiles into the main Apex space. Each PM has a temperature and pH probe attached. Here are the labels that I used for each probe:
 ```
-pH_C
+pH_CON
 pH_M
 pH_H
-temp_C
-temp_M
-temp_H
+T_CONT
+TEMP_M
+TEMP_H
 ```
 - Move down the tiles for outlets. These have off/auto/on options.
 - Click the settings button in the top right hand corner of the outlet tile and rename as outlet 1-8. Change control type to advanced. Under configuration, fallback should be off. Ignore probe name and on/off temperature, as the new input code will override this information. 
@@ -252,6 +252,8 @@ If pH_H > 7.67 Then ON
 If Time 06:00 to 19:00 Then OFF
 ```
 Essentially, each outlet on the energy bar is listening to the 8 virtual outlets and turning on/off heaters and solenoids based on that.
+
+![Apex_setup1](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/images/Apex_setup1.png "Apex_setup1") ![Apex_setup2](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/images/Apex_setup2.png "Apex_setup2")
 
 **Calibrate temperature and pH probes**
 For the temperature probes: 

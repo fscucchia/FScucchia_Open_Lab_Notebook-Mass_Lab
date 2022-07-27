@@ -253,7 +253,7 @@ If Time 06:00 to 19:00 Then OFF
 ```
 Essentially, each outlet on the energy bar is listening to the 8 virtual outlets and turning on/off heaters and solenoids based on that.
 
-![Apex_setup1](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/images/Apex_setup1.png "Apex_setup1") ![Apex_setup2](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/images/Apex_setup2.png "Apex_setup2")
+![Apex_setup1](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/images/Apex_setup1.png?raw=true "Apex_setup1") ![Apex_setup2](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/images/Apex_setup2.png?raw=true "Apex_setup2")
 
 **Calibrate temperature and pH probes**
 For the temperature probes: 

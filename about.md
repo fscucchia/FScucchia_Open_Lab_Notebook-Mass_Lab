@@ -88,7 +88,7 @@ Microscopy
 - Processing of synchrotron x-ray tomography data. Tools used: TomoTools, NRecon, CTVox, Dragonfly.
 
 Physiology
-- Coral protein concentration (Bradford and BCA assays), symbiotic algae count (hemocytometer), chlorophyll concentration (acetone method)
+- Coral protein concentration assays, symbiotic algae count, chlorophyll concentration assays
 - Assessment of coral symbiotic algae photophysiology using Pulse Amplitude Modulation (PAM) fluorometry
 - Assessment of coral respiration rates (primary polyps and adults) using oxygen chambers 
 
@@ -104,7 +104,7 @@ Other
 - Lab social media manager and Lab website manager
 
 
-### Workshop and work experiences
+### Research travel
 
 - 2016 - Two weeks oceanographic campaign for the CNR ISMAR Bologna (Italy). Habitat mapping of Cold Water Corals in the Bari Canyon for the EU Marine Strategy Framework Directive. Main activities: bathymetric data analysis and processing (ArcGIS), ROV videos analysis (ADELIE), mapping of cold water corals habitats (ArcGIS).
 
@@ -115,6 +115,8 @@ Other
 - 2021 - Five weeks visit to the Charité-Universitätsmedizin (Berlin) in the lab of Dr. Paul Zaslansky, where I learnt how to process and reconstruct x-ray tomography data acquired with synchrotron radiation (beamline) of coral primary polyps' skeletons.
 
 - 2022 - One week at the ESRF (European Synchrotron Radiation Facility) in Grenoble (France) to scan coral spats samples at the ID19 beamline and obtain high-resolution tomography data.
+
+- 2022 - Six weeks at HIMB (Hawai’ian Institute of Marine Biology) in Kanehoe Bay (O’ahu, Hawai’i) to conduct pH-temperature stress experiments with coral larvae.
 
 
 ### Teaching activities

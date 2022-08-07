@@ -5,7 +5,7 @@ category: [experiment, set-up ]
 tags: [ Coral, Planulae, pH, Montipora capitata, Pocillopora acuta ]
 ---
 
-This protocol details the step-by-step programming use of the [Apex Fusion system](https://apexfusion.com/) for pH-teperature experiments performed at the [Hawaiian Institute of Marine Biology (HIMB)](https://www.himb.hawaii.edu/) in June-July 2022 with planulae of the coral species _Montipora capitata_ and _Pocillopora acuta_.  
+This protocol details the step-by-step programming use of the [Apex Fusion system](https://apexfusion.com/) for pH-temperature experiments performed at the [Hawaiian Institute of Marine Biology (HIMB)](https://www.himb.hawaii.edu/) in June-July 2022 with planulae of the coral species _Montipora capitata_ and _Pocillopora acuta_.  
 All the equipment used belongs to the [Putnam Lab](http://putnamlab.com/). 
 
 In my experimental design, I set up a system by manipulating temperature and pH at the same time, based on future predictions of seawater temperature increase by 0.2–3.5 °C with concomitant drops in pH of 0.1–0.3 units by the year 2100, depending on the CO2 emissions scenario (IPCC, 2019).

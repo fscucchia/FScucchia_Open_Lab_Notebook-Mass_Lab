@@ -54,6 +54,8 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 
 7. **Scucchia, F.**, Sauer, K., Zaslansky, P., & Mass, T. (2022). Artificial Intelligence as a Tool to Study the 3D Skeletal Architecture in Newly Settled Coral Recruits: Insights into the Effects of Ocean Acidification on Coral Biomineralization. _Journal of Marine Science and Engineering_.
 
+8. Chille, E.E., Strand, E., **Scucchia, F.**, Neder, M., Schmidt, V., Sherman, M.O., Mass, T., & Putnam, H.M. Energetics but not development is impacted in coral embryos exposed to ocean acidification. _In press_.
+
 
 ### Presentations and Awards
 
@@ -94,8 +96,8 @@ Physiology
 
 Computational
 - Proficiency with RStudio
-- Basic shell scripting language
 - Knowledge of most basic statistical methods used in biological data 
+- Basic shell scripting language
 - Bioinformatics: whole-transcriptome RNA-Seq analysis. Tools used: STAR, HISAT2, StringTie, DIAMOND, DESeq, GOseq, GSEA
 
 Other

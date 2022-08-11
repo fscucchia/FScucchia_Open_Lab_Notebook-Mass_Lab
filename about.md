@@ -46,15 +46,20 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 2. Martinez, S., Kolodny, Y., Shemesh, E., **Scucchia, F.**, Nevo, R., Levin-Zaidman, S., Paltiel, Y., Keren, N., Tchernov, D. & Mass, T. (2020). Energy sources of the depth-generalist mixotrophic coral _Stylophora pistillata_. _Frontiers in Marine Science_. <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 <a href="https://plu.mx/plum/a/?doi=10.3389/fmars.2020.566663" class="plumx-plum-print-popup" data-popup="right" data-size="medium"></a>
 
-3. **Scucchia, F.**,  Malik, A., Zaslansky, P., Putnam, H. M., & Mass, T. (2021). Combined responses of primary coral polyps and their algal endosymbionts to decreasing seawater pH. _Proceedings of the Royal Society B_.
+3. **Scucchia, F.**,  Malik, A., Zaslansky, P., Putnam, H. M., & Mass, T. (2021). Combined responses of primary coral polyps and their algal endosymbionts to decreasing seawater pH. _Proceedings of the Royal Society B_. <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<a href="https://plu.mx/plum/a/?doi=10.1098/rspb.2021.0328" class="plumx-plum-print-popup" data-popup="right" data-size="medium"></a>
 
-4. Nativ, H., **Scucchia, F.**, Martinez, S., Einbinder, S., Chequer, A., Goodbody-Gringley, G., & Mass, T. (2021). _In situ_ Estimation of Coral Recruitment Patterns From Shallow to Mesophotic Reefs Using an Optimized Fluorescence Imaging System. _Frontiers in Marine Science_.
+4. Nativ, H., **Scucchia, F.**, Martinez, S., Einbinder, S., Chequer, A., Goodbody-Gringley, G., & Mass, T. (2021). _In situ_ Estimation of Coral Recruitment Patterns From Shallow to Mesophotic Reefs Using an Optimized Fluorescence Imaging System. _Frontiers in Marine Science_. <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<a href="https://plu.mx/plum/a/?doi=10.3389/fmars.2021.709175" class="plumx-plum-print-popup" data-popup="right" data-size="medium"></a>
 
-5. **Scucchia, F.**,  Malik, A., Putnam, H. M., & Mass, T. (2021). Genetic and physiological traits conferring tolerance to ocean acidification in mesophotic corals. _Global Change Biology_. 
+5. **Scucchia, F.**,  Malik, A., Putnam, H. M., & Mass, T. (2021). Genetic and physiological traits conferring tolerance to ocean acidification in mesophotic corals. _Global Change Biology_. <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<a href="https://plu.mx/plum/a/?doi=10.1111/gcb.15812" class="plumx-plum-print-popup" data-popup="right" data-size="medium"></a>
 
-6. Goodbody-Gringley, G., **Scucchia, F.**, Ju, R., Chequer, A., S., Einbinder, Martinez, S., Nativ, H., & Mass, T. (2021). Plasticity of _Porites astreoides_ Early Life History Stages Suggests Mesophotic Coral Ecosystems Act as Refugia in Bermuda. _Frontiers in Marine Science_.
+6. Goodbody-Gringley, G., **Scucchia, F.**, Ju, R., Chequer, A., S., Einbinder, Martinez, S., Nativ, H., & Mass, T. (2021). Plasticity of _Porites astreoides_ Early Life History Stages Suggests Mesophotic Coral Ecosystems Act as Refugia in Bermuda. _Frontiers in Marine Science_. <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<a href="https://plu.mx/plum/a/?doi=10.3389/fmars.2021.702672" class="plumx-plum-print-popup" data-popup="right" data-size="medium"></a>
 
-7. **Scucchia, F.**, Sauer, K., Zaslansky, P., & Mass, T. (2022). Artificial Intelligence as a Tool to Study the 3D Skeletal Architecture in Newly Settled Coral Recruits: Insights into the Effects of Ocean Acidification on Coral Biomineralization. _Journal of Marine Science and Engineering_.
+7. **Scucchia, F.**, Sauer, K., Zaslansky, P., & Mass, T. (2022). Artificial Intelligence as a Tool to Study the 3D Skeletal Architecture in Newly Settled Coral Recruits: Insights into the Effects of Ocean Acidification on Coral Biomineralization. _Journal of Marine Science and Engineering_. <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<a href="https://plu.mx/plum/a/?doi=10.3390/jmse10030391" class="plumx-plum-print-popup" data-popup="right" data-size="medium"></a>
 
 8. Chille, E.E., Strand, E., **Scucchia, F.**, Neder, M., Schmidt, V., Sherman, M.O., Mass, T., & Putnam, H.M. Energetics but not development is impacted in coral embryos exposed to ocean acidification. _In press_.
 

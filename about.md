@@ -40,8 +40,7 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 
 ### Publications
 
-1. **Scucchia, F.**, Nativ, H., Neder, M., Goodbody-Gringley, G., & Mass, T. (2020). Physiological characteristics of _Stylophora pistillata_ larvae across a depth gradient. _Frontiers in Marine Science_. 
-<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+1. **Scucchia, F.**, Nativ, H., Neder, M., Goodbody-Gringley, G., & Mass, T. (2020). Physiological characteristics of _Stylophora pistillata_ larvae across a depth gradient. _Frontiers in Marine Science_. <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 <a href="https://plu.mx/plum/a/?doi=10.1111/gcb.15812" class="plumx-plum-print-popup" data-popup="right" data-size="medium"></a>
 
 2. Martinez, S., Kolodny, Y., Shemesh, E., **Scucchia, F.**, Nevo, R., Levin-Zaidman, S., Paltiel, Y., Keren, N., Tchernov, D. & Mass, T. (2020). Energy sources of the depth-generalist mixotrophic coral _Stylophora pistillata_. _Frontiers in Marine Science_.

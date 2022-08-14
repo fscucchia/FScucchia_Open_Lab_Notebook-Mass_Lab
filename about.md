@@ -61,7 +61,7 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 7. **Scucchia, F.**, Sauer, K., Zaslansky, P., & Mass, T. (2022). Artificial Intelligence as a Tool to Study the 3D Skeletal Architecture in Newly Settled Coral Recruits: Insights into the Effects of Ocean Acidification on Coral Biomineralization. _Journal of Marine Science and Engineering_. <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 <a href="https://plu.mx/plum/a/?doi=10.3390/jmse10030391" class="plumx-plum-print-popup" data-popup="right" data-size="medium"></a>
 
-8. Chille, E.E., Strand, E., **Scucchia, F.**, Neder, M., Schmidt, V., Sherman, M.O., Mass, T., & Putnam, H.M. Energetics but not development is impacted in coral embryos exposed to ocean acidification. _In press_.
+8. Chille, E.E., Strand, E., **Scucchia, F.**, Neder, M., Schmidt, V., Sherman, M.O., Mass, T., & Putnam, H.M. Energetics but not development is impacted in coral embryos exposed to ocean acidification. _Journal of Experimental Biology, In press_.
 
 
 ### Presentations and Awards
@@ -71,6 +71,7 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 - 2021 - **F. Scucchia**, A. Malik, P. Zaslansky, H. M. Putnam, T. Mass_ Insights into the biomineralization response to ocean acidification in newly settled recruits of the scleractinian coral _Stylophora pistillata_. 16th International Symposium on Biomineralization (BIOMIN XVI).
 - 2021 - _Invited talk_ - **F. Scucchia**, P. Zaslansky, T. Mass_ Insights into the biomineralization response to ocean acidification in newly settled coral recruits. BESSY Science Seminar Series 2021, HZB (Helmholtz-Zentrum Berlin).
 - 2022 - _Invited talk_ - **F. Scucchia**, K. Sauer, P. Zaslansky, T. Mass_ Artificial intelligence as a tool to study the 3D skeletal architecture in newly settled coral recruits: insights into the effects of Ocean Acidification on coral biomineralization. Goldschmidt Conference 2022, Honolulu, Hawaiʻi, USA. 
+- 2022 - _Invited talk_ - **F. Scucchia**, K. Sauer, P. Zaslansky, T. Mass_ Using artificial intelligence to examine the biomineralization response to Ocean Acidification of newly settled coral recruits. Biomineralization Gordon Research Seminar (GRS) 2022, Barcelona, Spain.
 
 #### Grants and Awards
 - 2017 - Overseas Study Program Award, funding covering one year of study at UCSB, Santa Barabara, California, USA.

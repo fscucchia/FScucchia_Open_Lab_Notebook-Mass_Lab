@@ -73,6 +73,11 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 - 2022 - _Invited talk_ - **F. Scucchia**, K. Sauer, P. Zaslansky, T. Mass_ Artificial intelligence as a tool to study the 3D skeletal architecture in newly settled coral recruits: insights into the effects of Ocean Acidification on coral biomineralization. Goldschmidt Conference 2022, Honolulu, Hawaiʻi, USA. 
 - 2022 - _Invited talk_ - **F. Scucchia**, K. Sauer, P. Zaslansky, T. Mass_ Using artificial intelligence to examine the biomineralization response to Ocean Acidification of newly settled coral recruits. Biomineralization Gordon Research Seminar (GRS) 2022, Barcelona, Spain.
 
+#### Posters
+- 2022 - **F. Scucchia**, K. Sauer, P. Zaslansky, T. Mass_ Using artificial intelligence to examine the biomineralization response to Ocean Acidification of newly settled coral recruits. Biomineralization Gordon Research Conference (GRC) 2022, Barcelona, Spain.
+- 2021 - **F. Scucchia**, A. Malik, H. M. Putnam, T. Mass_ Genetic and physiological traits conferring tolerance to ocean 
+acidification in mesophotic corals. Academic Get-Together, Marine Biology Department, University of Haifa, Israel.
+
 #### Grants and Awards
 - 2017 - Overseas Study Program Award, funding covering one year of study at UCSB, Santa Barabara, California, USA.
 - 2020 - 1st place lecture award, Marine Biology Departmental symposium, Haifa University. 

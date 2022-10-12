@@ -82,8 +82,9 @@ acidification in mesophotic corals. Academic Get-Together, Marine Biology Depart
 - 2017 - Overseas Study Program Award, funding covering one year of study at UCSB, Santa Barabara, California, USA.
 - 2020 - 1st place lecture award, Marine Biology Departmental symposium, Haifa University. 
 - 2021 - 2nd place poster award, Marine Biology Departmental symposium, Haifa University.
-- 2022 - Israel Data Science Initiative (IDSI) Cloud Computing grant (2000$)
-- 2022 - The Israel Academy of Sciences, Aharon and Ephraim Katzir Grant (5000$)
+- 2022 - Israel Data Science Initiative (IDSI) Cloud Computing grant (2000$).
+- 2022 - The Israel Academy of Sciences, Aharon and Ephraim Katzir Grant (5000$).
+- 2022 - Oren Berko Prize for Excellence, The Interuniversity Institute for Marine Sciences, Eilat (1500$).
 
 
 ###  Skills and Techniques

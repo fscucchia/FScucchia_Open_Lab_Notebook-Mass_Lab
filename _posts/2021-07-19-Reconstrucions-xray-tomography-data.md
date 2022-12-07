@@ -8,7 +8,7 @@ tags: [ X-ray, Beamline, Imaging, Stylophora, Skeleton, Primary polyps ]
 Pipeline for processing and reconstruction of X-ray tomography data of coral recruits' skeleton, acquired with synchrotron radiation at ([BAMline](https://www.helmholtz-berlin.de/pubbin/igama_output?modus=einzel&sprache=en&gid=1658&typoid=)), the imaging beamline at BESSY (HZB - Helmholtz-Zentrum Berlin, Germany). 
 Data preprocessing and reconstruction were performed using the in-house Octave-based reconstruction pipeline in the lab of Dr. Paul Zaslansky at Charité, Universitätsmedizin Berlin. 
 
-Tools used for data reconstruction and visualization: [TomoTools](https://github.com/RSBradley/TomoTools), [NRecon](https://umanitoba.ca/faculties/health_sciences/medicine/units/cacs/sam/media/NReconUserManual.pdf), [Dragonfly](https://www.theobjects.com/index.html), [Fiji](https://imagej.net/software/fiji/).
+Tools used for data reconstruction and visualization: [TomoTools](https://github.com/RSBradley/TomoTools), [NRecon](https://www.microphotonics.com/micro-ct-systems/nrecon-reconstruction-software/), [Dragonfly](https://www.theobjects.com/index.html), [Fiji](https://imagej.net/software/fiji/).
 
 ### Preparing the scans, flat fields and background images
 

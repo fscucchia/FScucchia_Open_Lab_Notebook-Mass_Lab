@@ -61,7 +61,7 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 7. **Scucchia, F.**, Sauer, K., Zaslansky, P., & Mass, T. (2022). Artificial Intelligence as a Tool to Study the 3D Skeletal Architecture in Newly Settled Coral Recruits: Insights into the Effects of Ocean Acidification on Coral Biomineralization. _Journal of Marine Science and Engineering_. <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 <a href="https://plu.mx/plum/a/?doi=10.3390/jmse10030391" class="plumx-plum-print-popup" data-popup="right" data-size="medium"></a>
 
-8. Chille, E.E., Strand, E., **Scucchia, F.**, Neder, M., Schmidt, V., Sherman, M.O., Mass, T., & Putnam, H.M. Energetics but not development is impacted in coral embryos exposed to ocean acidification. _Journal of Experimental Biology, In press_.
+8. Chille, E.E., Strand, E., **Scucchia, F.**, Neder, M., Schmidt, V., Sherman, M.O., Mass, T., & Putnam, H.M. Energetics but not development is impacted in coral embryos exposed to ocean acidification. _Journal of Experimental Biology, 225(19), jeb243187.
 
 
 ### Presentations and Awards

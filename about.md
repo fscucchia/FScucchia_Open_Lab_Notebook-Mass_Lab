@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I’m a PhD candidate in the Coral Biomineralization and Physiology Lab of Tali Mass in Haifa, Israel.
-My research is focused on the response of juvenile and adult corals to decreasing oceanic pH. In particular, I’m examining the changes in physiological and morphological characteristics,  and gene expression patterns in both the corals and the endosymbiotic algae, to better understand the response and vulnerability of these organisms to ocean acidification. 
+I completed my PhD in the Coral Biomineralization and Physiology Lab of Prof. Tali Mass at the University of Haifa, Israel.
+My research has focused on the response of juvenile and adult corals to decreasing oceanic pH. In particular, I’ve examined the changes in physiological and morphological characteristics,  and gene expression patterns in both the corals and the endosymbiotic algae, to better understand the response and vulnerability of these organisms to ocean acidification. 
 
-I’m also interested in coral phenotypic plasticity across depths and light environments, and in particular I’m exploring the changes in morphology, physiology and gene expression that enable corals to thrive across broad vertical gradients, from shallow to mesophotic reefs.
+I’ve also studied coral phenotypic plasticity across depths and light environments, and in particular I’ve explored the changes in morphology, physiology and gene expression that enable corals to thrive across broad vertical gradients, from shallow to mesophotic reefs.
 
 ### More Information
 
@@ -28,7 +28,7 @@ I’m also interested in coral phenotypic plasticity across depths and light env
 
 | Date | Degree | School |
 |--|--|--|
-| 2019-current | PhD | Marine Biology, University of Haifa, Israel |
+| 2019-2023 | PhD | Marine Biology, University of Haifa, Israel |
 |---| Topic of research | Influence of environmental stressors on the physiology, morphology and gene expression of corals, from juvenile to adult stages |
 | 2019 | MSc | Marine Biology, University of Bologna, Italy |
 |---| Thesis | Transcriptional profiles inferring thermal stress responses of the coral _Oculina patagonica_ compared to other Mediterranean coral species |
